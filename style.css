@@ -1,0 +1,49 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
+#map {
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    width: 100%;
+}
+
+.marker {
+    /* background-image: url('mapbox-icon.png'); */
+    position: absolute;
+    width: 140px;
+    height: 30px;
+    border: 1px solid rgb(53, 51, 51);
+    color: white;
+}
+
+.marker-icon, .marker-text {
+    vertical-align: middle;
+    display: inline-block;
+    margin-left: 2px;
+}
+
+.marker-icon{
+    border-color: aquamarine;
+    border-width: 120px;
+    margin-top: 2px;
+
+}
+
+.marker-text{
+    font-size: 20px;
+	font-weight: bold;
+}
+
+.st0 {
+    fill: none;
+    stroke: #ffffff;
+    stroke-width: 3px;
+}
+
+.svg-class{
+    color: red;
+    stroke: #a81818;
+}
