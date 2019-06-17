@@ -1,0 +1,5870 @@
+{
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 153.0724723,-27.4130601 ]
+    },
+    "properties": {
+    "ID":1761087874,
+    "MarkerText":"VEH735",
+    "Popup Text":"46 Hedley Avenue, Hendra 4011 QLD",
+    "FIELD6":"/46 Hedley Avenue, Hendra 4011 QLD\\",
+    "Rotate":105,
+    "Class":"green"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 150.7570633,-34.118453 ]
+    },
+    "properties": {
+    "ID":4662363133,
+    "MarkerText":"VEH744",
+    "Popup Text":" Menangle Road Road, Menangle Park 2563 NSW",
+    "FIELD6":"",
+    "Rotate":128,
+    "Class":"green"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 150.907169,-33.839922 ]
+    },
+    "properties": {
+    "ID":4662400053,
+    "MarkerText":"VEH799",
+    "Popup Text":"27 Frank Street, Wetherill Park 2164 NSW",
+    "FIELD6":"",
+    "Rotate":134,
+    "Class":"green"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 146.9223115,-36.091685 ]
+    },
+    "properties": {
+    "ID":4662399235,
+    "MarkerText":"VEH9910",
+    "Popup Text":"359 Atkins Street, East Albury 2640 NSW",
+    "FIELD6":"",
+    "Rotate":196,
+    "Class":"green"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 139.5049968,-35.3101181 ]
+    },
+    "properties": {
+    "ID":4662363096,
+    "MarkerText":"VEH711",
+    "Popup Text":" Dukes Highway Highway, Tailem Bend 5260 SA",
+    "FIELD6":"",
+    "Rotate":40,
+    "Class":"green"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 143.8131851,-37.5350685 ]
+    },
+    "properties": {
+    "ID":4662395764,
+    "MarkerText":"VEH55225",
+    "Popup Text":"30-32 Grandlee Drive, Wendouree 3355 VIC",
+    "FIELD6":"",
+    "Rotate":319,
+    "Class":"green"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.9740938,-37.6906618 ]
+    },
+    "properties": {
+    "ID":1761088259,
+    "MarkerText":"VEH640",
+    "Popup Text":"368 Mahoneys Road, Thomastown 3074 VIC",
+    "FIELD6":"",
+    "Rotate":315,
+    "Class":"green"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 151.0659,-33.8778426 ]
+    },
+    "properties": {
+    "ID":4662399192,
+    "MarkerText":"VEH444",
+    "Popup Text":" Weeroona Road Road, Strathfield 2135 NSW",
+    "FIELD6":"",
+    "Rotate":281,
+    "Class":"green"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.8058693,-37.8314381 ]
+    },
+    "properties": {
+    "ID":4662363180,
+    "MarkerText":"VEH614",
+    "Popup Text":" Princes Freeway Freeway, Laverton North 3026 VIC",
+    "FIELD6":"",
+    "Rotate":141,
+    "Class":"green"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.2218433,-37.9083428 ]
+    },
+    "properties": {
+    "ID":4662363309,
+    "MarkerText":"VEH5647",
+    "Popup Text":"5 Lakeview Drive, Scoresby 3179 VIC",
+    "FIELD6":"",
+    "Rotate":296,
+    "Class":"green"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.774827,-37.8116605 ]
+    },
+    "properties": {
+    "ID":4662399818,
+    "MarkerText":"VEH687",
+    "Popup Text":"346 Boundary Road, Derrimut 3030 VIC",
+    "FIELD6":"",
+    "Rotate":324,
+    "Class":"green"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 150.9068495,-33.8402223 ]
+    },
+    "properties": {
+    "ID":4662400518,
+    "MarkerText":"VEH782",
+    "Popup Text":"29 Frank Street, Wetherill Park 2164 NSW",
+    "FIELD6":"",
+    "Rotate":3,
+    "Class":"green"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 150.9080158,-33.8410445 ]
+    },
+    "properties": {
+    "ID":4662399737,
+    "MarkerText":"VEH6024",
+    "Popup Text":"35-37 Frank Street, Wetherill Park 2164 NSW",
+    "FIELD6":"",
+    "Rotate":70,
+    "Class":"green"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 150.9661843,-33.8569341 ]
+    },
+    "properties": {
+    "ID":4662480817,
+    "MarkerText":"VEH6770",
+    "Popup Text":" Johnstone Street Street, Yennora 2161 NSW",
+    "FIELD6":"",
+    "Rotate":181,
+    "Class":"green"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 149.1120051,-33.3095815 ]
+    },
+    "properties": {
+    "ID":4662363284,
+    "MarkerText":"VEH625",
+    "Popup Text":"11 Hawthorn Place, Orange 2800 NSW",
+    "FIELD6":"",
+    "Rotate":17,
+    "Class":"green"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 152.9569141,-27.5799276 ]
+    },
+    "properties": {
+    "ID":4662399781,
+    "MarkerText":"VEH613",
+    "Popup Text":"616 Boundary Road, Richlands 4077 QLD",
+    "FIELD6":"",
+    "Rotate":287,
+    "Class":"green"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 150.1653788,-34.6294711 ]
+    },
+    "properties": {
+    "ID":1761085816,
+    "MarkerText":"VEH729",
+    "Popup Text":" Hanging Rock Road Road, Sutton Forest 2577 NSW",
+    "FIELD6":"",
+    "Rotate":347,
+    "Class":"green"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 152.324085,-32.1614655 ]
+    },
+    "properties": {
+    "ID":4662399169,
+    "MarkerText":"VEH8786",
+    "Popup Text":" Pitt Wharf Road Road, Coolongolook 2423 NSW",
+    "FIELD6":"",
+    "Rotate":277,
+    "Class":"green"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 152.9577893,-27.5793843 ]
+    },
+    "properties": {
+    "ID":4662363064,
+    "MarkerText":"VEH649",
+    "Popup Text":"24 West Link Place, Richlands 4077 QLD",
+    "FIELD6":"",
+    "Rotate":208,
+    "Class":"green"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.8054965,-37.832115 ]
+    },
+    "properties": {
+    "ID":1761088416,
+    "MarkerText":"VEH156942",
+    "Popup Text":"16-24 Cherry Lane, Laverton North 3026 VIC",
+    "FIELD6":"",
+    "Rotate":3,
+    "Class":"green"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 139.4394466,-35.2390881 ]
+    },
+    "properties": {
+    "ID":2162036341,
+    "MarkerText":"VEH262",
+    "Popup Text":"8786 Princes Highway, Tailem Bend 5260 SA",
+    "FIELD6":"",
+    "Rotate":308,
+    "Class":"green"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 147.2722398,-35.787445 ]
+    },
+    "properties": {
+    "ID":4662399784,
+    "MarkerText":"VEH90357",
+    "Popup Text":" Woomargama Way Way, Holbrook 2644 NSW",
+    "FIELD6":"",
+    "Rotate":150,
+    "Class":"green"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 152.9572748,-27.5799025 ]
+    },
+    "properties": {
+    "ID":4662394796,
+    "MarkerText":"VEH600",
+    "Popup Text":"16 West Link Place, Richlands 4077 QLD",
+    "FIELD6":"",
+    "Rotate":0,
+    "Class":"green"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 151.0320651,-33.9524606 ]
+    },
+    "properties": {
+    "ID":4662480802,
+    "MarkerText":"VEH2308",
+    "Popup Text":"3A Padstow Parade, Padstow 2211 NSW",
+    "FIELD6":"",
+    "Rotate":45,
+    "Class":"green"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 152.7763785,-31.5430601 ]
+    },
+    "properties": {
+    "ID":4662342058,
+    "MarkerText":"VEH621",
+    "Popup Text":" Aintree Close Close, Herons Creek 2443 NSW",
+    "FIELD6":"",
+    "Rotate":137,
+    "Class":"green"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 150.6935015,-34.2406286 ]
+    },
+    "properties": {
+    "ID":4662399108,
+    "MarkerText":"VEH88497",
+    "Popup Text":"72 Almond Street, Wilton 2571 NSW",
+    "FIELD6":"",
+    "Rotate":153,
+    "Class":"green"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 138.6449073,-34.7793606 ]
+    },
+    "properties": {
+    "ID":4662399466,
+    "MarkerText":"VEH8284",
+    "Popup Text":"114 Cross Keys Road, Salisbury South 5106 SA",
+    "FIELD6":"",
+    "Rotate":356,
+    "Class":"green"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 150.9658358,-33.8566191 ]
+    },
+    "properties": {
+    "ID":4662480796,
+    "MarkerText":"VEH7367",
+    "Popup Text":" Lomond Street Street, Yennora 2161 NSW",
+    "FIELD6":"",
+    "Rotate":256,
+    "Class":"green"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 147.2564633,-33.9260946 ]
+    },
+    "properties": {
+    "ID":1761088344,
+    "MarkerText":"VEH163310",
+    "Popup Text":"516 Newell Highway, Wyalong 2671 NSW",
+    "FIELD6":"",
+    "Rotate":227,
+    "Class":"green"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 151.0758985,-33.8890081 ]
+    },
+    "properties": {
+    "ID":4662480811,
+    "MarkerText":"VEH1026",
+    "Popup Text":"549 Liverpool Road, Strathfield 2135 NSW",
+    "FIELD6":"",
+    "Rotate":143,
+    "Class":"green"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 152.7764395,-31.5430346 ]
+    },
+    "properties": {
+    "ID":4662399183,
+    "MarkerText":"VEH631",
+    "Popup Text":" Aintree Close Close, Herons Creek 2443 NSW",
+    "FIELD6":"",
+    "Rotate":178,
+    "Class":"green"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 150.9833275,-33.7716796 ]
+    },
+    "properties": {
+    "ID":1761087548,
+    "MarkerText":"VEH675",
+    "Popup Text":"6 Junction Road, Winston Hills 2153 NSW",
+    "FIELD6":"",
+    "Rotate":11,
+    "Class":"green"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 150.6581941,-34.2463533 ]
+    },
+    "properties": {
+    "ID":4662363336,
+    "MarkerText":"VEH754",
+    "Popup Text":" Esen Way Way, Pheasants Nest 2574 NSW",
+    "FIELD6":"",
+    "Rotate":170,
+    "Class":"green"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.8153193,-37.8080141 ]
+    },
+    "properties": {
+    "ID":4662363000,
+    "MarkerText":"VEH142178",
+    "Popup Text":" Law Court Court, Sunshine West 3020 VIC",
+    "FIELD6":"",
+    "Rotate":352,
+    "Class":"green"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 150.974563,-33.859272 ]
+    },
+    "properties": {
+    "ID":4662480810,
+    "MarkerText":"VEH2807",
+    "Popup Text":" Guernsey Street Street, Yennora 2161 NSW",
+    "FIELD6":"",
+    "Rotate":163,
+    "Class":"green"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.8480065,-37.6943256 ]
+    },
+    "properties": {
+    "ID":4662399592,
+    "MarkerText":"VEH57963",
+    "Popup Text":"140 Link Road, Melbourne Airport 3045 VIC",
+    "FIELD6":"",
+    "Rotate":66,
+    "Class":"green"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 149.7975496,-29.7535988 ]
+    },
+    "properties": {
+    "ID":4662398882,
+    "MarkerText":"VEH588",
+    "Popup Text":" Keith Smith Place Place, Gurley 2398 NSW",
+    "FIELD6":"",
+    "Rotate":357,
+    "Class":"green"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.3513553,-38.108407 ]
+    },
+    "properties": {
+    "ID":4662399986,
+    "MarkerText":"VEH8040",
+    "Popup Text":"44-46 Edols Street, North Geelong 3215 VIC",
+    "FIELD6":"",
+    "Rotate":43,
+    "Class":"green"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 148.2293218,-34.882151 ]
+    },
+    "properties": {
+    "ID":4662399451,
+    "MarkerText":"VEH633",
+    "Popup Text":" Sommerset Road Road, Coolac 2727 NSW",
+    "FIELD6":"",
+    "Rotate":243,
+    "Class":"green"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 150.9074665,-33.8399108 ]
+    },
+    "properties": {
+    "ID":4662400076,
+    "MarkerText":"VEH292",
+    "Popup Text":"27 Frank Street, Wetherill Park 2164 NSW",
+    "FIELD6":"",
+    "Rotate":142,
+    "Class":"green"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.1982548,-38.0149076 ]
+    },
+    "properties": {
+    "ID":4662394942,
+    "MarkerText":"VEH7273",
+    "Popup Text":" South Park Drive Drive, Dandenong South 3175 VIC",
+    "FIELD6":"",
+    "Rotate":169,
+    "Class":"green"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 150.908019,-33.8392935 ]
+    },
+    "properties": {
+    "ID":4662399482,
+    "MarkerText":"VEH718",
+    "Popup Text":" Frank Street Street, Wetherill Park 2164 NSW",
+    "FIELD6":"",
+    "Rotate":238,
+    "Class":"green"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.8475955,-37.695698 ]
+    },
+    "properties": {
+    "ID":4662399748,
+    "MarkerText":"VEH745",
+    "Popup Text":" Reid Way Way, Melbourne Airport 3045 VIC",
+    "FIELD6":"",
+    "Rotate":104,
+    "Class":"green"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 147.8936046,-35.161937 ]
+    },
+    "properties": {
+    "ID":1761088435,
+    "MarkerText":"VEH617",
+    "Popup Text":" Rosedale Road Road, Mount Adrah 2729 NSW",
+    "FIELD6":"",
+    "Rotate":175,
+    "Class":"green"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.1972096,-38.0153593 ]
+    },
+    "properties": {
+    "ID":4662398910,
+    "MarkerText":"VEH5648",
+    "Popup Text":" South Park Drive Drive, Dandenong South 3175 VIC",
+    "FIELD6":"",
+    "Rotate":40,
+    "Class":"green"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 151.0489686,-33.8892378 ]
+    },
+    "properties": {
+    "ID":1761088399,
+    "MarkerText":"VEH160261",
+    "Popup Text":" Worth Street Street, Chullora 2190 NSW",
+    "FIELD6":"",
+    "Rotate":257,
+    "Class":"green"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 151.0012348,-33.9496493 ]
+    },
+    "properties": {
+    "ID":4662480741,
+    "MarkerText":"VEH9563",
+    "Popup Text":"109 Horsley Road, Panania 2213 NSW",
+    "FIELD6":"",
+    "Rotate":328,
+    "Class":"green"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.7889853,-37.8017435 ]
+    },
+    "properties": {
+    "ID":4662363352,
+    "MarkerText":"VEH695",
+    "Popup Text":"415 Fitzgerald Road, Derrimut 3030 VIC",
+    "FIELD6":"",
+    "Rotate":86,
+    "Class":"green"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 151.15509,-33.9397065 ]
+    },
+    "properties": {
+    "ID":4662480734,
+    "MarkerText":"VEH9024",
+    "Popup Text":" Eve Street Street, Arncliffe 2205 NSW",
+    "FIELD6":"",
+    "Rotate":284,
+    "Class":"green"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 148.1009848,-35.0505131 ]
+    },
+    "properties": {
+    "ID":4662399106,
+    "MarkerText":"VEH781",
+    "Popup Text":"37 O'hagan Street, Gundagai 2722 NSW",
+    "FIELD6":"",
+    "Rotate":304,
+    "Class":"green"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 146.9218928,-36.0917436 ]
+    },
+    "properties": {
+    "ID":4662395781,
+    "MarkerText":"VEH1707",
+    "Popup Text":"306 Macauley Street, South Albury 2640 NSW",
+    "FIELD6":"",
+    "Rotate":191,
+    "Class":"green"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 153.4005006,-28.0994225 ]
+    },
+    "properties": {
+    "ID":4662394872,
+    "MarkerText":"VEH658",
+    "Popup Text":" Stapley Drive Exit , Reedy Creek 4227 QLD",
+    "FIELD6":"",
+    "Rotate":351,
+    "Class":"green"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 151.9302228,-32.64108 ]
+    },
+    "properties": {
+    "ID":1761087873,
+    "MarkerText":"VEH776",
+    "Popup Text":" Limeburners Creek Road Road, Karuah 2324 NSW",
+    "FIELD6":"",
+    "Rotate":234,
+    "Class":"green"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 146.5830683,-36.1676808 ]
+    },
+    "properties": {
+    "ID":4662480735,
+    "MarkerText":"VEH653",
+    "Popup Text":" Horns Access Road Road, Chiltern 3683 VIC",
+    "FIELD6":"",
+    "Rotate":359,
+    "Class":"green"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 153.4005758,-28.0994755 ]
+    },
+    "properties": {
+    "ID":4662394836,
+    "MarkerText":"VEH664",
+    "Popup Text":" Stapley Drive Exit , Reedy Creek 4227 QLD",
+    "FIELD6":"",
+    "Rotate":78,
+    "Class":"green"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 148.6180916,-32.1709363 ]
+    },
+    "properties": {
+    "ID":1761086650,
+    "MarkerText":"VEH717",
+    "Popup Text":" Marthaguy Street Street, Brocklehurst 2830 NSW",
+    "FIELD6":"",
+    "Rotate":243,
+    "Class":"green"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.196473,-38.0152743 ]
+    },
+    "properties": {
+    "ID":4662363302,
+    "MarkerText":"VEH7524",
+    "Popup Text":" South Park Drive Drive, Dandenong South 3175 VIC",
+    "FIELD6":"",
+    "Rotate":298,
+    "Class":"green"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 152.9573893,-27.5801708 ]
+    },
+    "properties": {
+    "ID":4662363303,
+    "MarkerText":"VEH752",
+    "Popup Text":"8 West Link Place, Richlands 4077 QLD",
+    "FIELD6":"",
+    "Rotate":180,
+    "Class":"green"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 147.7387018,-35.2762528 ]
+    },
+    "properties": {
+    "ID":1761086176,
+    "MarkerText":"VEH741",
+    "Popup Text":"45 Sydney Street, Tarcutta 2652 NSW",
+    "FIELD6":"",
+    "Rotate":246,
+    "Class":"green"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 151.4783355,-33.0699041 ]
+    },
+    "properties": {
+    "ID":1761088325,
+    "MarkerText":"VEH75271",
+    "Popup Text":" Newport Road Road, Cooranbong 2265 NSW",
+    "FIELD6":"",
+    "Rotate":277,
+    "Class":"green"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 146.9207133,-36.093322 ]
+    },
+    "properties": {
+    "ID":4662399731,
+    "MarkerText":"VEH163564",
+    "Popup Text":"260 Macauley Street, South Albury 2640 NSW",
+    "FIELD6":"",
+    "Rotate":355,
+    "Class":"green"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 153.3118295,-27.8649335 ]
+    },
+    "properties": {
+    "ID":4662399426,
+    "MarkerText":"VEH704",
+    "Popup Text":"30 Runway Drive, Upper Coomera 4209 QLD",
+    "FIELD6":"",
+    "Rotate":91,
+    "Class":"green"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 152.944633,-27.5672736 ]
+    },
+    "properties": {
+    "ID":1761086217,
+    "MarkerText":"VEH7182",
+    "Popup Text":"122 Ebbern Street, Darra 4076 QLD",
+    "FIELD6":"",
+    "Rotate":33,
+    "Class":"green"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 146.920814,-36.0939988 ]
+    },
+    "properties": {
+    "ID":4662399979,
+    "MarkerText":"VEH163576",
+    "Popup Text":"421 Atkins Street, South Albury 2640 NSW",
+    "FIELD6":"",
+    "Rotate":19,
+    "Class":"green"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 150.839613,-34.0262951 ]
+    },
+    "properties": {
+    "ID":4662363194,
+    "MarkerText":"VEH777",
+    "Popup Text":"32 Airds Road, Minto 2566 NSW",
+    "FIELD6":"",
+    "Rotate":281,
+    "Class":"green"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 152.3240403,-32.1613293 ]
+    },
+    "properties": {
+    "ID":4662399558,
+    "MarkerText":"VEH677",
+    "Popup Text":" Pitt Wharf Road Road, Coolongolook 2423 NSW",
+    "FIELD6":"",
+    "Rotate":353,
+    "Class":"green"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 153.0725371,-27.4129696 ]
+    },
+    "properties": {
+    "ID":1761087856,
+    "MarkerText":"VEH793",
+    "Popup Text":"46 Hedley Avenue, Hendra 4011 QLD",
+    "FIELD6":"",
+    "Rotate":331,
+    "Class":"green"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.7817815,-37.8409293 ]
+    },
+    "properties": {
+    "ID":1761088319,
+    "MarkerText":"VEH796",
+    "Popup Text":"25 Fitzgerald Road, Laverton North 3026 VIC",
+    "FIELD6":"",
+    "Rotate":197,
+    "Class":"green"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 146.5829738,-36.1676773 ]
+    },
+    "properties": {
+    "ID":4662400390,
+    "MarkerText":"VEH654",
+    "Popup Text":" Horns Access Road Road, Chiltern 3683 VIC",
+    "FIELD6":"",
+    "Rotate":206,
+    "Class":"green"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 150.8186798,-33.7884398 ]
+    },
+    "properties": {
+    "ID":4662399624,
+    "MarkerText":"VEH679",
+    "Popup Text":"51 Sargents Road, Minchinbury 2770 NSW",
+    "FIELD6":"",
+    "Rotate":332,
+    "Class":"green"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 151.7156041,-32.8912088 ]
+    },
+    "properties": {
+    "ID":1761087877,
+    "MarkerText":"VEH470",
+    "Popup Text":"21 Callistemon Close, Warabrook 2304 NSW",
+    "FIELD6":"",
+    "Rotate":250,
+    "Class":"green"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 153.2515205,-29.3669928 ]
+    },
+    "properties": {
+    "ID":1761087747,
+    "MarkerText":"VEH688",
+    "Popup Text":"441 Chatsworth Road, Chatsworth 2469 NSW",
+    "FIELD6":"",
+    "Rotate":81,
+    "Class":"green"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 149.7975138,-29.753697 ]
+    },
+    "properties": {
+    "ID":4662480360,
+    "MarkerText":"VEH580",
+    "Popup Text":" Keith Smith Place Place, Gurley 2398 NSW",
+    "FIELD6":"",
+    "Rotate":117,
+    "Class":"green"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.9816553,-37.4375781 ]
+    },
+    "properties": {
+    "ID":4662342169,
+    "MarkerText":"VEH665",
+    "Popup Text":" Macsfield Road Road, Wallan 3756 VIC",
+    "FIELD6":"",
+    "Rotate":69,
+    "Class":"green"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.852868,-37.7032298 ]
+    },
+    "properties": {
+    "ID":1761088419,
+    "MarkerText":"VEH696",
+    "Popup Text":"13 Lambeck Drive, Tullamarine 3043 VIC",
+    "FIELD6":"",
+    "Rotate":353,
+    "Class":"green"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.8562318,-37.7012416 ]
+    },
+    "properties": {
+    "ID":1761088393,
+    "MarkerText":"VEH150526",
+    "Popup Text":"117-119 South Centre Road, Melbourne Airport 3045 VIC",
+    "FIELD6":"",
+    "Rotate":222,
+    "Class":"green"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.8590911,-37.8106843 ]
+    },
+    "properties": {
+    "ID":4642155941,
+    "MarkerText":"VEH730",
+    "Popup Text":"423 Somerville Road, Tottenham 3012 VIC",
+    "FIELD6":"",
+    "Rotate":21,
+    "Class":"green"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 138.6449726,-34.7788436 ]
+    },
+    "properties": {
+    "ID":4662394742,
+    "MarkerText":"VEH636",
+    "Popup Text":"114 Cross Keys Road, Salisbury South 5106 SA",
+    "FIELD6":"",
+    "Rotate":51,
+    "Class":"green"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 150.9072863,-33.8392425 ]
+    },
+    "properties": {
+    "ID":4662400461,
+    "MarkerText":"VEH1321",
+    "Popup Text":" Kellaway Place Place, Wetherill Park 2164 NSW",
+    "FIELD6":"",
+    "Rotate":150,
+    "Class":"green"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 146.97515,-36.0391965 ]
+    },
+    "properties": {
+    "ID":4662400298,
+    "MarkerText":"VEH789",
+    "Popup Text":" Songlark Crescent Crescent, Thurgoona 2640 NSW",
+    "FIELD6":"",
+    "Rotate":257,
+    "Class":"green"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 142.798651,-37.101491 ]
+    },
+    "properties": {
+    "ID":1761085812,
+    "MarkerText":"VEH746",
+    "Popup Text":" Harvey Lane Lane, Great Western 3374 VIC",
+    "FIELD6":"",
+    "Rotate":210,
+    "Class":"green"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 146.9789221,-36.0238218 ]
+    },
+    "properties": {
+    "ID":4662341852,
+    "MarkerText":"VEH685",
+    "Popup Text":"14 Henshaw Court, Springdale Heights 2641 NSW",
+    "FIELD6":"",
+    "Rotate":235,
+    "Class":"green"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.8346143,-37.8014846 ]
+    },
+    "properties": {
+    "ID":4662399785,
+    "MarkerText":"VEH162577",
+    "Popup Text":"25-33 Fourth Avenue, Sunshine 3020 VIC",
+    "FIELD6":"",
+    "Rotate":124,
+    "Class":"green"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 146.736366,-19.2475148 ]
+    },
+    "properties": {
+    "ID":1761086643,
+    "MarkerText":"VEH163329",
+    "Popup Text":"147 Webb Drive, Mount St John 4818 QLD",
+    "FIELD6":"",
+    "Rotate":175,
+    "Class":"green"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 151.049629,-33.8895646 ]
+    },
+    "properties": {
+    "ID":1761088275,
+    "MarkerText":"VEH132441",
+    "Popup Text":" Worth Street Street, Chullora 2190 NSW",
+    "FIELD6":"",
+    "Rotate":246,
+    "Class":"green"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 151.0426228,-33.889606 ]
+    },
+    "properties": {
+    "ID":1761087962,
+    "MarkerText":"VEH724",
+    "Popup Text":" Dasea Street Street, Chullora 2190 NSW",
+    "FIELD6":"",
+    "Rotate":235,
+    "Class":"green"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 150.9082471,-33.8393835 ]
+    },
+    "properties": {
+    "ID":4662342147,
+    "MarkerText":"VEH748",
+    "Popup Text":" Frank Street Street, Wetherill Park 2164 NSW",
+    "FIELD6":"",
+    "Rotate":179,
+    "Class":"green"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 150.9072776,-33.8389491 ]
+    },
+    "properties": {
+    "ID":4662399472,
+    "MarkerText":"VEH681",
+    "Popup Text":" Kellaway Place Place, Wetherill Park 2164 NSW",
+    "FIELD6":"",
+    "Rotate":338,
+    "Class":"green"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 152.9579468,-27.57982 ]
+    },
+    "properties": {
+    "ID":4662399552,
+    "MarkerText":"VEH790",
+    "Popup Text":"24 West Link Place, Richlands 4077 QLD",
+    "FIELD6":"",
+    "Rotate":31,
+    "Class":"green"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 151.4225321,-33.234336 ]
+    },
+    "properties": {
+    "ID":1761086631,
+    "MarkerText":"VEH163238",
+    "Popup Text":"12 Burnet Road, Warnervale 2259 NSW",
+    "FIELD6":"",
+    "Rotate":318,
+    "Class":"green"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 152.9637371,-26.8601146 ]
+    },
+    "properties": {
+    "ID":4662400073,
+    "MarkerText":"VEH23663",
+    "Popup Text":" Biondi Crescent, Beerwah 4519 QLD",
+    "FIELD6":"",
+    "Rotate":264,
+    "Class":"green"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 152.96375,-26.8600573 ]
+    },
+    "properties": {
+    "ID":4662394739,
+    "MarkerText":"VEH163483",
+    "Popup Text":"15 Biondi Crescent, Beerwah 4519 QLD",
+    "FIELD6":"",
+    "Rotate":225,
+    "Class":"green"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 152.9449805,-27.5656286 ]
+    },
+    "properties": {
+    "ID":1761085811,
+    "MarkerText":"VEH64121",
+    "Popup Text":"11 Clinker Street, Darra 4076 QLD",
+    "FIELD6":"",
+    "Rotate":260,
+    "Class":"green"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 152.9577228,-27.5799663 ]
+    },
+    "properties": {
+    "ID":4662400320,
+    "MarkerText":"VEH160590",
+    "Popup Text":"16 West Link Place, Richlands 4077 QLD",
+    "FIELD6":"",
+    "Rotate":276,
+    "Class":"green"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 150.9069363,-33.8406351 ]
+    },
+    "properties": {
+    "ID":4662400195,
+    "MarkerText":"VEH8508",
+    "Popup Text":"29 Frank Street, Wetherill Park 2164 NSW",
+    "FIELD6":"",
+    "Rotate":241,
+    "Class":"green"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.9992075,-36.570587 ]
+    },
+    "properties": {
+    "ID":1761088335,
+    "MarkerText":"VEH710",
+    "Popup Text":" Plum Lane Lane, Benalla 3672 VIC",
+    "FIELD6":"",
+    "Rotate":177,
+    "Class":"green"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.663648,-36.689226 ]
+    },
+    "properties": {
+    "ID":1761086226,
+    "MarkerText":"VEH604",
+    "Popup Text":" Mcdiarmids Road Road, Balmattum 3666 VIC",
+    "FIELD6":"",
+    "Rotate":322,
+    "Class":"green"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 150.9073931,-33.8392516 ]
+    },
+    "properties": {
+    "ID":4662400248,
+    "MarkerText":"VEH163351",
+    "Popup Text":" Kellaway Place Place, Wetherill Park 2164 NSW",
+    "FIELD6":"",
+    "Rotate":259,
+    "Class":"green"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 150.9124458,-31.0951451 ]
+    },
+    "properties": {
+    "ID":4662400288,
+    "MarkerText":"VEH655",
+    "Popup Text":"1 Phillip Street, West Tamworth 2340 NSW",
+    "FIELD6":"",
+    "Rotate":229,
+    "Class":"green"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 150.9072853,-33.8389603 ]
+    },
+    "properties": {
+    "ID":4662399497,
+    "MarkerText":"VEH163348",
+    "Popup Text":" Kellaway Place Place, Wetherill Park 2164 NSW",
+    "FIELD6":"",
+    "Rotate":305,
+    "Class":"green"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 153.1476465,-30.189602 ]
+    },
+    "properties": {
+    "ID":4662363192,
+    "MarkerText":"VEH6477",
+    "Popup Text":" Pacific Highway Highway, Moonee Beach 2450 NSW",
+    "FIELD6":"",
+    "Rotate":74,
+    "Class":"green"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 150.9127291,-31.0953623 ]
+    },
+    "properties": {
+    "ID":4662399959,
+    "MarkerText":"VEH668",
+    "Popup Text":"1 Phillip Street, West Tamworth 2340 NSW",
+    "FIELD6":"",
+    "Rotate":49,
+    "Class":"green"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.8478293,-37.694341 ]
+    },
+    "properties": {
+    "ID":4662342141,
+    "MarkerText":"VEH662",
+    "Popup Text":"140 Link Road, Melbourne Airport 3045 VIC",
+    "FIELD6":"",
+    "Rotate":218,
+    "Class":"green"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.8466925,-37.6946126 ]
+    },
+    "properties": {
+    "ID":4662363103,
+    "MarkerText":"VEH95356",
+    "Popup Text":" Reid Way Way, Melbourne Airport 3045 VIC",
+    "FIELD6":"",
+    "Rotate":49,
+    "Class":"green"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.8056126,-37.8318826 ]
+    },
+    "properties": {
+    "ID":1761086657,
+    "MarkerText":"VEH723",
+    "Popup Text":"16-24 Cherry Lane, Laverton North 3026 VIC",
+    "FIELD6":"",
+    "Rotate":267,
+    "Class":"green"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 150.8362813,-33.8146723 ]
+    },
+    "properties": {
+    "ID":1761087859,
+    "MarkerText":"VEH6816",
+    "Popup Text":"8 Roberts Road, Eastern Creek 2766 NSW",
+    "FIELD6":"",
+    "Rotate":220,
+    "Class":"green"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 149.2476743,-35.3364671 ]
+    },
+    "properties": {
+    "ID":4662399900,
+    "MarkerText":"VEH158489",
+    "Popup Text":"12 Wycombe Street, Queanbeyan East 2620 NSW",
+    "FIELD6":"",
+    "Rotate":219,
+    "Class":"green"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 150.8176465,-33.7880541 ]
+    },
+    "properties": {
+    "ID":4662363311,
+    "MarkerText":"VEH8580",
+    "Popup Text":"51 Sargents Road, Minchinbury 2770 NSW",
+    "FIELD6":"",
+    "Rotate":171,
+    "Class":"green"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 151.0524036,-33.8916605 ]
+    },
+    "properties": {
+    "ID":4662400120,
+    "MarkerText":"VEH644",
+    "Popup Text":"12 Hume Highway, Chullora 2190 NSW",
+    "FIELD6":"",
+    "Rotate":272,
+    "Class":"green"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.8053646,-37.8315751 ]
+    },
+    "properties": {
+    "ID":1761088444,
+    "MarkerText":"VEH2738",
+    "Popup Text":" Princes Freeway Freeway, Laverton North 3026 VIC",
+    "FIELD6":"",
+    "Rotate":65,
+    "Class":"green"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.9816311,-37.4376733 ]
+    },
+    "properties": {
+    "ID":4662400359,
+    "MarkerText":"VEH667",
+    "Popup Text":" Macsfield Road Road, Wallan 3756 VIC",
+    "FIELD6":"",
+    "Rotate":200,
+    "Class":"green"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 153.233756,-27.7504213 ]
+    },
+    "properties": {
+    "ID":1761086652,
+    "MarkerText":"VEH692",
+    "Popup Text":"21 Dixon Street, Yatala 4207 QLD",
+    "FIELD6":"",
+    "Rotate":117,
+    "Class":"green"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.8475375,-37.6956088 ]
+    },
+    "properties": {
+    "ID":4662399238,
+    "MarkerText":"VEH9540",
+    "Popup Text":" Reid Way Way, Melbourne Airport 3045 VIC",
+    "FIELD6":"",
+    "Rotate":208,
+    "Class":"green"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 152.9573471,-27.5798355 ]
+    },
+    "properties": {
+    "ID":4662399546,
+    "MarkerText":"VEH8635",
+    "Popup Text":"16 West Link Place, Richlands 4077 QLD",
+    "FIELD6":"",
+    "Rotate":309,
+    "Class":"green"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 138.6450696,-34.7786415 ]
+    },
+    "properties": {
+    "ID":4662399640,
+    "MarkerText":"VEH794",
+    "Popup Text":"114 Cross Keys Road, Salisbury South 5106 SA",
+    "FIELD6":"",
+    "Rotate":155,
+    "Class":"green"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 153.2162876,-29.4589925 ]
+    },
+    "properties": {
+    "ID":4662341817,
+    "MarkerText":"VEH756",
+    "Popup Text":" Skye Place Place, Townsend 2463 NSW",
+    "FIELD6":"",
+    "Rotate":266,
+    "Class":"green"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 152.7768636,-31.5427643 ]
+    },
+    "properties": {
+    "ID":4662399882,
+    "MarkerText":"VEH728",
+    "Popup Text":" Aintree Close Close, Herons Creek 2443 NSW",
+    "FIELD6":"",
+    "Rotate":200,
+    "Class":"green"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 149.1616461,-35.3935211 ]
+    },
+    "properties": {
+    "ID":1761088269,
+    "MarkerText":"VEH765",
+    "Popup Text":"8 Tralee Street, Hume 2620 ACT",
+    "FIELD6":"",
+    "Rotate":221,
+    "Class":"green"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.8524548,-37.7057933 ]
+    },
+    "properties": {
+    "ID":4662363227,
+    "MarkerText":"VEH405",
+    "Popup Text":"11 Mareno Road, Tullamarine 3043 VIC",
+    "FIELD6":"",
+    "Rotate":215,
+    "Class":"green"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.7353953,-37.8030428 ]
+    },
+    "properties": {
+    "ID":4662399076,
+    "MarkerText":"VEH162806",
+    "Popup Text":" Doriemus Drive Drive, Truganina 3029 VIC",
+    "FIELD6":"",
+    "Rotate":0,
+    "Class":"green"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 153.343221,-27.9468248 ]
+    },
+    "properties": {
+    "ID":4662399915,
+    "MarkerText":"VEH7421",
+    "Popup Text":"47 Newheath Drive, Arundel 4214 QLD",
+    "FIELD6":"",
+    "Rotate":240,
+    "Class":"green"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 153.3433215,-27.9467533 ]
+    },
+    "properties": {
+    "ID":4662400074,
+    "MarkerText":"VEH574",
+    "Popup Text":"48 Newheath Drive, Arundel 4214 QLD",
+    "FIELD6":"",
+    "Rotate":168,
+    "Class":"green"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 153.1084441,-27.6073013 ]
+    },
+    "properties": {
+    "ID":4662400090,
+    "MarkerText":"VEH129804",
+    "Popup Text":"2 Botanical Drive, Underwood 4119 QLD",
+    "FIELD6":"",
+    "Rotate":281,
+    "Class":"green"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.0711146,-37.1981143 ]
+    },
+    "properties": {
+    "ID":4662363356,
+    "MarkerText":"VEH743",
+    "Popup Text":" Broadford-Kilmore-Hume Out Ramp On Ramp, Broadford 3658 VIC",
+    "FIELD6":"",
+    "Rotate":136,
+    "Class":"green"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 138.5430283,-34.8863493 ]
+    },
+    "properties": {
+    "ID":1761087869,
+    "MarkerText":"VEH734",
+    "Popup Text":"746 Port Road, Beverley 5009 SA",
+    "FIELD6":"",
+    "Rotate":32,
+    "Class":"green"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.9329393,-37.679681 ]
+    },
+    "properties": {
+    "ID":4662480791,
+    "MarkerText":"VEH757",
+    "Popup Text":"33-35 Belfast Street, Broadmeadows 3047 VIC",
+    "FIELD6":"",
+    "Rotate":228,
+    "Class":"green"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 148.1077706,-35.0454238 ]
+    },
+    "properties": {
+    "ID":4662363278,
+    "MarkerText":"VEH787",
+    "Popup Text":" Springflat Drive Drive, Gundagai 2722 NSW",
+    "FIELD6":"",
+    "Rotate":97,
+    "Class":"green"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 152.9577648,-27.5796725 ]
+    },
+    "properties": {
+    "ID":4662398985,
+    "MarkerText":"VEH1309",
+    "Popup Text":"24 West Link Place, Richlands 4077 QLD",
+    "FIELD6":"",
+    "Rotate":240,
+    "Class":"green"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 151.6227415,-32.9270655 ]
+    },
+    "properties": {
+    "ID":4662363171,
+    "MarkerText":"VEH761",
+    "Popup Text":"11 Aluminium Close, Edgeworth 2285 NSW",
+    "FIELD6":"",
+    "Rotate":224,
+    "Class":"green"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 152.9578045,-27.579983 ]
+    },
+    "properties": {
+    "ID":4662399456,
+    "MarkerText":"VEH160593",
+    "Popup Text":"16 West Link Place, Richlands 4077 QLD",
+    "FIELD6":"",
+    "Rotate":288,
+    "Class":"green"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 152.9577638,-27.5798345 ]
+    },
+    "properties": {
+    "ID":4662394737,
+    "MarkerText":"VEH101111",
+    "Popup Text":"16 West Link Place, Richlands 4077 QLD",
+    "FIELD6":"",
+    "Rotate":347,
+    "Class":"green"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 150.9739806,-33.8728191 ]
+    },
+    "properties": {
+    "ID":1761086199,
+    "MarkerText":"VEH118321",
+    "Popup Text":"64-72 Seville Street, Fairfield East 2165 NSW",
+    "FIELD6":"",
+    "Rotate":313,
+    "Class":"green"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 149.1216105,-33.2671051 ]
+    },
+    "properties": {
+    "ID":4662394266,
+    "MarkerText":"VEH78064",
+    "Popup Text":"19 Astill Drive, Orange 2800 NSW",
+    "FIELD6":"",
+    "Rotate":330,
+    "Class":"green"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.1974998,-38.0155125 ]
+    },
+    "properties": {
+    "ID":4662399109,
+    "MarkerText":"VEH708",
+    "Popup Text":" South Park Drive Drive, Dandenong South 3175 VIC",
+    "FIELD6":"",
+    "Rotate":144,
+    "Class":"green"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 147.893181,-35.1622231 ]
+    },
+    "properties": {
+    "ID":4662394270,
+    "MarkerText":"VEH749",
+    "Popup Text":" Rosedale Road Road, Mount Adrah 2729 NSW",
+    "FIELD6":"",
+    "Rotate":90,
+    "Class":"green"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 152.7294913,-31.5932675 ]
+    },
+    "properties": {
+    "ID":4662480441,
+    "MarkerText":"VEH163475",
+    "Popup Text":" Miles Drive Drive, Herons Creek 2443 NSW",
+    "FIELD6":"",
+    "Rotate":40,
+    "Class":"green"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 151.715475,-32.891343 ]
+    },
+    "properties": {
+    "ID":1761087736,
+    "MarkerText":"VEH163438",
+    "Popup Text":"21 Callistemon Close, Warabrook 2304 NSW",
+    "FIELD6":"",
+    "Rotate":176,
+    "Class":"green"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 151.703205,-32.8212298 ]
+    },
+    "properties": {
+    "ID":1761088388,
+    "MarkerText":"VEH751",
+    "Popup Text":"26 Old Punt Road, Tomago 2322 NSW",
+    "FIELD6":"",
+    "Rotate":54,
+    "Class":"green"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 151.4223326,-33.3155801 ]
+    },
+    "properties": {
+    "ID":4662363322,
+    "MarkerText":"VEH674",
+    "Popup Text":"4 Pioneer Avenue, Tuggerah 2259 NSW",
+    "FIELD6":"",
+    "Rotate":86,
+    "Class":"green"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 151.039263,-33.8935361 ]
+    },
+    "properties": {
+    "ID":1761088340,
+    "MarkerText":"VEH646",
+    "Popup Text":"155 Rookwood Road, Yagoona 2199 NSW",
+    "FIELD6":"",
+    "Rotate":230,
+    "Class":"green"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 150.9078273,-33.8406893 ]
+    },
+    "properties": {
+    "ID":4662363203,
+    "MarkerText":"VEH788",
+    "Popup Text":"27 Frank Street, Wetherill Park 2164 NSW",
+    "FIELD6":"",
+    "Rotate":251,
+    "Class":"green"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 152.7296028,-31.5914706 ]
+    },
+    "properties": {
+    "ID":4662480753,
+    "MarkerText":"VEH608",
+    "Popup Text":" Miles Drive Drive, Herons Creek 2443 NSW",
+    "FIELD6":"",
+    "Rotate":146,
+    "Class":"green"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 149.406712,-34.8197863 ]
+    },
+    "properties": {
+    "ID":4662400133,
+    "MarkerText":"VEH285",
+    "Popup Text":" The Bicentennial National Trail , Breadalbane 2581 NSW",
+    "FIELD6":"",
+    "Rotate":23,
+    "Class":"green"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.5948341,-36.7390225 ]
+    },
+    "properties": {
+    "ID":4662363346,
+    "MarkerText":"VEH684",
+    "Popup Text":" Balmattum North Road Road, Euroa 3666 VIC",
+    "FIELD6":"",
+    "Rotate":178,
+    "Class":"green"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 147.8933125,-35.1621306 ]
+    },
+    "properties": {
+    "ID":4662400818,
+    "MarkerText":"VEH680",
+    "Popup Text":" Rosedale Road Road, Mount Adrah 2729 NSW",
+    "FIELD6":"",
+    "Rotate":37,
+    "Class":"green"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.1981431,-38.0158478 ]
+    },
+    "properties": {
+    "ID":4662399494,
+    "MarkerText":"VEH657",
+    "Popup Text":" South Park Drive Drive, Dandenong South 3175 VIC",
+    "FIELD6":"",
+    "Rotate":324,
+    "Class":"green"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 140.8891268,-36.3223661 ]
+    },
+    "properties": {
+    "ID":4662399627,
+    "MarkerText":"VEH682",
+    "Popup Text":" Dukes Highway Highway, Pine Hill 5269 SA",
+    "FIELD6":"",
+    "Rotate":36,
+    "Class":"green"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 151.052074,-33.8914981 ]
+    },
+    "properties": {
+    "ID":1761087867,
+    "MarkerText":"VEH163276",
+    "Popup Text":" Worth Street Street, Chullora 2190 NSW",
+    "FIELD6":"",
+    "Rotate":151,
+    "Class":"green"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.848562,-37.6956161 ]
+    },
+    "properties": {
+    "ID":4662399457,
+    "MarkerText":"VEH753",
+    "Popup Text":" Reid Way Way, Melbourne Airport 3045 VIC",
+    "FIELD6":"",
+    "Rotate":63,
+    "Class":"green"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 153.219082,-29.454686 ]
+    },
+    "properties": {
+    "ID":4662399724,
+    "MarkerText":"VEH47926",
+    "Popup Text":" Koala Drive Drive, James Creek 2463 NSW",
+    "FIELD6":"",
+    "Rotate":72,
+    "Class":"green"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 150.5195285,-34.390817 ]
+    },
+    "properties": {
+    "ID":4662480809,
+    "MarkerText":"VEH721",
+    "Popup Text":" Hume Motorway Motorway, Alpine 2575 NSW",
+    "FIELD6":"",
+    "Rotate":328,
+    "Class":"green"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 150.9276858,-33.8381518 ]
+    },
+    "properties": {
+    "ID":4662363021,
+    "MarkerText":"VEH5377",
+    "Popup Text":"137A Long Street, Smithfield 2164 NSW",
+    "FIELD6":"",
+    "Rotate":343,
+    "Class":"green"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.8469511,-37.6948141 ]
+    },
+    "properties": {
+    "ID":4662398891,
+    "MarkerText":"VEH764",
+    "Popup Text":" Reid Way Way, Melbourne Airport 3045 VIC",
+    "FIELD6":"",
+    "Rotate":202,
+    "Class":"green"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 138.9062463,-35.0570905 ]
+    },
+    "properties": {
+    "ID":1761086221,
+    "MarkerText":"VEH726",
+    "Popup Text":" Parking Bay , Mount Barker 5251 SA",
+    "FIELD6":"",
+    "Rotate":213,
+    "Class":"green"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.8472008,-37.6953463 ]
+    },
+    "properties": {
+    "ID":4662398905,
+    "MarkerText":"VEH4193",
+    "Popup Text":" Reid Way Way, Melbourne Airport 3045 VIC",
+    "FIELD6":"",
+    "Rotate":336,
+    "Class":"green"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.8486103,-37.6951713 ]
+    },
+    "properties": {
+    "ID":4662399043,
+    "MarkerText":"VEH652",
+    "Popup Text":" Reid Way Way, Melbourne Airport 3045 VIC",
+    "FIELD6":"",
+    "Rotate":154,
+    "Class":"green"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 150.9089266,-33.8404323 ]
+    },
+    "properties": {
+    "ID":4662399447,
+    "MarkerText":"VEH4163",
+    "Popup Text":"35-37 Frank Street, Wetherill Park 2164 NSW",
+    "FIELD6":"",
+    "Rotate":342,
+    "Class":"green"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 150.8367066,-33.8148108 ]
+    },
+    "properties": {
+    "ID":4662363189,
+    "MarkerText":"VEH683",
+    "Popup Text":"8 Roberts Road, Eastern Creek 2766 NSW",
+    "FIELD6":"",
+    "Rotate":158,
+    "Class":"green"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 152.9323276,-30.8760386 ]
+    },
+    "properties": {
+    "ID":4662399602,
+    "MarkerText":"VEH3306",
+    "Popup Text":" Pacific Highway Highway, Barraganyatti 2441 NSW",
+    "FIELD6":"",
+    "Rotate":187,
+    "Class":"green"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.8051668,-37.8317355 ]
+    },
+    "properties": {
+    "ID":4662363181,
+    "MarkerText":"VEH158800",
+    "Popup Text":" Princes Freeway Freeway, Laverton North 3026 VIC",
+    "FIELD6":"",
+    "Rotate":82,
+    "Class":"green"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 153.1358688,-30.2759138 ]
+    },
+    "properties": {
+    "ID":4662400645,
+    "MarkerText":"VEH705",
+    "Popup Text":"1 Island View Close, Coffs Harbour 2450 NSW",
+    "FIELD6":"",
+    "Rotate":327,
+    "Class":"green"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 150.9072088,-33.841361 ]
+    },
+    "properties": {
+    "ID":4662399474,
+    "MarkerText":"VEH133988",
+    "Popup Text":" Frank Street Street, Wetherill Park 2164 NSW",
+    "FIELD6":"",
+    "Rotate":59,
+    "Class":"green"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 150.5942575,-34.3131325 ]
+    },
+    "properties": {
+    "ID":1761087743,
+    "MarkerText":"VEH133002",
+    "Popup Text":" Lupton Road Road, Bargo 2574 NSW",
+    "FIELD6":"",
+    "Rotate":239,
+    "Class":"green"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.9249523,-37.8302483 ]
+    },
+    "properties": {
+    "ID":1761085824,
+    "MarkerText":"VEH656",
+    "Popup Text":" Woolboard Road Road, Port Melbourne 3207 VIC",
+    "FIELD6":"",
+    "Rotate":11,
+    "Class":"green"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 153.5373605,-28.5288463 ]
+    },
+    "properties": {
+    "ID":1761088394,
+    "MarkerText":"VEH143127",
+    "Popup Text":"1 Rajah Road, Ocean Shores 2483 NSW",
+    "FIELD6":"",
+    "Rotate":76,
+    "Class":"green"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 150.906682,-33.8401953 ]
+    },
+    "properties": {
+    "ID":4662399712,
+    "MarkerText":"VEH777",
+    "Popup Text":"29 Frank Street, Wetherill Park 2164 NSW",
+    "FIELD6":"",
+    "Rotate":107,
+    "Class":"green"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.2399865,-38.0294321 ]
+    },
+    "properties": {
+    "ID":1761086704,
+    "MarkerText":"VEH669",
+    "Popup Text":"18295 Quantum Close, Dandenong South 3175 VIC",
+    "FIELD6":"",
+    "Rotate":164,
+    "Class":"green"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 151.17058,-32.5573178 ]
+    },
+    "properties": {
+    "ID":1761086168,
+    "MarkerText":"VEH67225",
+    "Popup Text":"1 Bank Street, Dunolly 2330 NSW",
+    "FIELD6":"",
+    "Rotate":99,
+    "Class":"green"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.8055193,-37.8321415 ]
+    },
+    "properties": {
+    "ID":4662363212,
+    "MarkerText":"VEH783",
+    "Popup Text":"16-24 Cherry Lane, Laverton North 3026 VIC",
+    "FIELD6":"",
+    "Rotate":223,
+    "Class":"green"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 150.9075456,-33.8397866 ]
+    },
+    "properties": {
+    "ID":4662400050,
+    "MarkerText":"VEH152040",
+    "Popup Text":"27 Frank Street, Wetherill Park 2164 NSW",
+    "FIELD6":"",
+    "Rotate":31,
+    "Class":"green"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 150.0132141,-34.7057513 ]
+    },
+    "properties": {
+    "ID":1761087541,
+    "MarkerText":"VEH2601",
+    "Popup Text":" Jennings Lane Lane, Marulan 2579 NSW",
+    "FIELD6":"",
+    "Rotate":351,
+    "Class":"green"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 147.2720983,-35.7875741 ]
+    },
+    "properties": {
+    "ID":4662399055,
+    "MarkerText":"VEH90348",
+    "Popup Text":" Woomargama Way Way, Holbrook 2644 NSW",
+    "FIELD6":"",
+    "Rotate":92,
+    "Class":"green"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 152.3241936,-32.1617806 ]
+    },
+    "properties": {
+    "ID":4662342168,
+    "MarkerText":"VEH2848",
+    "Popup Text":" Pitt Wharf Road Road, Coolongolook 2423 NSW",
+    "FIELD6":"",
+    "Rotate":143,
+    "Class":"green"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 150.578508,-34.3205026 ]
+    },
+    "properties": {
+    "ID":1761086702,
+    "MarkerText":"VEH720",
+    "Popup Text":" Remembrance Driveway Driveway, Yanderra 2574 NSW",
+    "FIELD6":"",
+    "Rotate":179,
+    "Class":"green"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 148.6208356,-32.22155 ]
+    },
+    "properties": {
+    "ID":4662399442,
+    "MarkerText":"VEH689",
+    "Popup Text":" Tannery Road Road, Dubbo 2830 NSW",
+    "FIELD6":"",
+    "Rotate":189,
+    "Class":"green"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 151.0533908,-33.8473718 ]
+    },
+    "properties": {
+    "ID":1761086216,
+    "MarkerText":"VEH693",
+    "Popup Text":"4 Hill Road, Lidcombe 2141 NSW",
+    "FIELD6":"",
+    "Rotate":137,
+    "Class":"green"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 150.8314075,-34.007583 ]
+    },
+    "properties": {
+    "ID":1761088260,
+    "MarkerText":"VEH670",
+    "Popup Text":" Hume Motorway Motorway, Varroville 2566 NSW",
+    "FIELD6":"",
+    "Rotate":193,
+    "Class":"green"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 150.8139463,-33.784726 ]
+    },
+    "properties": {
+    "ID":4662399380,
+    "MarkerText":"VEH7594",
+    "Popup Text":"90 Sargents Road, Minchinbury 2770 NSW",
+    "FIELD6":"",
+    "Rotate":26,
+    "Class":"green"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 152.9576951,-27.5797955 ]
+    },
+    "properties": {
+    "ID":4662363277,
+    "MarkerText":"VEH759",
+    "Popup Text":"16 West Link Place, Richlands 4077 QLD",
+    "FIELD6":"",
+    "Rotate":108,
+    "Class":"green"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 150.8142525,-33.7837176 ]
+    },
+    "properties": {
+    "ID":4662400079,
+    "MarkerText":"VEH819",
+    "Popup Text":"14 Eddie Road, Minchinbury 2770 NSW",
+    "FIELD6":"",
+    "Rotate":53,
+    "Class":"green"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 150.8188806,-33.788417 ]
+    },
+    "properties": {
+    "ID":1761088390,
+    "MarkerText":"VEH132205",
+    "Popup Text":"51 Sargents Road, Minchinbury 2770 NSW",
+    "FIELD6":"",
+    "Rotate":187,
+    "Class":"green"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 152.9576506,-27.5796696 ]
+    },
+    "properties": {
+    "ID":4662341787,
+    "MarkerText":"VEH773",
+    "Popup Text":"24 West Link Place, Richlands 4077 QLD",
+    "FIELD6":"",
+    "Rotate":45,
+    "Class":"green"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 138.6446306,-34.7793031 ]
+    },
+    "properties": {
+    "ID":4662399711,
+    "MarkerText":"VEH9661",
+    "Popup Text":"114 Cross Keys Road, Salisbury South 5106 SA",
+    "FIELD6":"",
+    "Rotate":121,
+    "Class":"green"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.8470321,-37.6945551 ]
+    },
+    "properties": {
+    "ID":4662363176,
+    "MarkerText":"VEH671",
+    "Popup Text":" Reid Way Way, Melbourne Airport 3045 VIC",
+    "FIELD6":"",
+    "Rotate":191,
+    "Class":"green"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 151.0537561,-33.890584 ]
+    },
+    "properties": {
+    "ID":4662399081,
+    "MarkerText":"VEH157233",
+    "Popup Text":" Unnamed , Chullora 2190 NSW",
+    "FIELD6":"",
+    "Rotate":127,
+    "Class":"green"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 150.9046741,-33.8422716 ]
+    },
+    "properties": {
+    "ID":4662399732,
+    "MarkerText":"VEH234",
+    "Popup Text":"14 Frank Street, Wetherill Park 2164 NSW",
+    "FIELD6":"",
+    "Rotate":29,
+    "Class":"green"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 146.9869235,-35.9957433 ]
+    },
+    "properties": {
+    "ID":4662399345,
+    "MarkerText":"VEH8250",
+    "Popup Text":" Unnamed , Ettamogah 2640 NSW",
+    "FIELD6":"",
+    "Rotate":32,
+    "Class":"green"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.846534,-37.6945323 ]
+    },
+    "properties": {
+    "ID":4662399635,
+    "MarkerText":"VEH780",
+    "Popup Text":" Reid Way Way, Melbourne Airport 3045 VIC",
+    "FIELD6":"",
+    "Rotate":321,
+    "Class":"green"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 140.0761635,-35.8990681 ]
+    },
+    "properties": {
+    "ID":4662341850,
+    "MarkerText":"VEH103637",
+    "Popup Text":" Kings Road Road, Tintinara 5266 SA",
+    "FIELD6":"",
+    "Rotate":319,
+    "Class":"green"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 140.0756856,-35.8987128 ]
+    },
+    "properties": {
+    "ID":4662398889,
+    "MarkerText":"VEH112783",
+    "Popup Text":" Kings Road Road, Tintinara 5266 SA",
+    "FIELD6":"",
+    "Rotate":352,
+    "Class":"green"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 140.0759811,-35.8989243 ]
+    },
+    "properties": {
+    "ID":4662399259,
+    "MarkerText":"VEH103630",
+    "Popup Text":" Kings Road Road, Tintinara 5266 SA",
+    "FIELD6":"",
+    "Rotate":304,
+    "Class":"green"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 151.784295,-32.9166095 ]
+    },
+    "properties": {
+    "ID":4642155851,
+    "MarkerText":"VEH7653",
+    "Popup Text":"42 Mitchell Street, Stockton 2295 NSW",
+    "FIELD6":"",
+    "Rotate":55,
+    "Class":"green"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 151.60234,-32.8943293 ]
+    },
+    "properties": {
+    "ID":4662399936,
+    "MarkerText":"VEH57484",
+    "Popup Text":"26-30 Stenhouse Drive, Cameron Park 2285 NSW",
+    "FIELD6":"",
+    "Rotate":241,
+    "Class":"green"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 148.1088621,-35.0322101 ]
+    },
+    "properties": {
+    "ID":4662399485,
+    "MarkerText":"VEH739",
+    "Popup Text":" Hume Highway Highway, Gundagai 2722 NSW",
+    "FIELD6":"",
+    "Rotate":43,
+    "Class":"green"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 152.9437203,-27.5647408 ]
+    },
+    "properties": {
+    "ID":1761086218,
+    "MarkerText":"VEH108518",
+    "Popup Text":"19 Clinker Street, Darra 4076 QLD",
+    "FIELD6":"",
+    "Rotate":317,
+    "Class":"green"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 150.9076295,-33.8393128 ]
+    },
+    "properties": {
+    "ID":4662399179,
+    "MarkerText":"VEH719",
+    "Popup Text":" Frank Street Street, Wetherill Park 2164 NSW",
+    "FIELD6":"",
+    "Rotate":344,
+    "Class":"green"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.4317531,-36.4156508 ]
+    },
+    "properties": {
+    "ID":4662399228,
+    "MarkerText":"VEH163479",
+    "Popup Text":"575 Doyles Road, Orrvale 3631 VIC",
+    "FIELD6":"",
+    "Rotate":70,
+    "Class":"green"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 146.9211273,-36.0935811 ]
+    },
+    "properties": {
+    "ID":4662399422,
+    "MarkerText":"VEH132905",
+    "Popup Text":"421 Atkins Street, South Albury 2640 NSW",
+    "FIELD6":"",
+    "Rotate":103,
+    "Class":"green"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 146.9207788,-36.0932336 ]
+    },
+    "properties": {
+    "ID":4662400315,
+    "MarkerText":"VEH163440",
+    "Popup Text":"260 Macauley Street, South Albury 2640 NSW",
+    "FIELD6":"",
+    "Rotate":210,
+    "Class":"green"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 151.0705578,-33.8644233 ]
+    },
+    "properties": {
+    "ID":2162039700,
+    "MarkerText":"VEH159310",
+    "Popup Text":"100 The Crescent , Homebush West 2140 NSW",
+    "FIELD6":"",
+    "Rotate":134,
+    "Class":"green"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.8344965,-37.8009923 ]
+    },
+    "properties": {
+    "ID":4662399346,
+    "MarkerText":"VEH162218",
+    "Popup Text":"25-33 Fourth Avenue, Sunshine 3020 VIC",
+    "FIELD6":"",
+    "Rotate":239,
+    "Class":"green"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.8154496,-37.8080506 ]
+    },
+    "properties": {
+    "ID":4662399343,
+    "MarkerText":"VEH98759",
+    "Popup Text":" Law Court Court, Sunshine West 3020 VIC",
+    "FIELD6":"",
+    "Rotate":7,
+    "Class":"green"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.431778,-36.415759 ]
+    },
+    "properties": {
+    "ID":4662395077,
+    "MarkerText":"VEH163503",
+    "Popup Text":"575 Doyles Road, Orrvale 3631 VIC",
+    "FIELD6":"",
+    "Rotate":217,
+    "Class":"green"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 148.1088296,-35.0325408 ]
+    },
+    "properties": {
+    "ID":4662395060,
+    "MarkerText":"VEH648",
+    "Popup Text":" Hume Highway Highway, Gundagai 2722 NSW",
+    "FIELD6":"",
+    "Rotate":51,
+    "Class":"green"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 152.9431471,-27.5652453 ]
+    },
+    "properties": {
+    "ID":4662363015,
+    "MarkerText":"VEH162269",
+    "Popup Text":" Centenary Highway Highway, Sumner 4074 QLD",
+    "FIELD6":"",
+    "Rotate":212,
+    "Class":"green"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.8468785,-37.6942691 ]
+    },
+    "properties": {
+    "ID":4662400127,
+    "MarkerText":"VEH157165",
+    "Popup Text":"150-158 Link Road, Melbourne Airport 3045 VIC",
+    "FIELD6":"",
+    "Rotate":173,
+    "Class":"green"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 146.9214481,-36.0913851 ]
+    },
+    "properties": {
+    "ID":4662400086,
+    "MarkerText":"VEH7168",
+    "Popup Text":"306 Macauley Street, South Albury 2640 NSW",
+    "FIELD6":"",
+    "Rotate":172,
+    "Class":"green"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.7575961,-37.804894 ]
+    },
+    "properties": {
+    "ID":4642156780,
+    "MarkerText":"VEH163508",
+    "Popup Text":"13 Grimes Court, Derrimut 3030 VIC",
+    "FIELD6":"",
+    "Rotate":251,
+    "Class":"green"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 148.7743276,-34.7686916 ]
+    },
+    "properties": {
+    "ID":4662400735,
+    "MarkerText":"VEH94399",
+    "Popup Text":" Red Hill Road Road, Bowning 2582 NSW",
+    "FIELD6":"",
+    "Rotate":253,
+    "Class":"green"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 148.774208,-34.7686911 ]
+    },
+    "properties": {
+    "ID":4662400725,
+    "MarkerText":"VEH94444",
+    "Popup Text":" Red Hill Road Road, Bowning 2582 NSW",
+    "FIELD6":"",
+    "Rotate":266,
+    "Class":"green"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.1976426,-38.0160013 ]
+    },
+    "properties": {
+    "ID":4662399744,
+    "MarkerText":"VEH162234",
+    "Popup Text":" South Park Drive Drive, Dandenong South 3175 VIC",
+    "FIELD6":"",
+    "Rotate":261,
+    "Class":"green"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.7409416,-37.8251636 ]
+    },
+    "properties": {
+    "ID":4662363320,
+    "MarkerText":"VEH2564",
+    "Popup Text":" Logic Court Court, Truganina 3029 VIC",
+    "FIELD6":"",
+    "Rotate":239,
+    "Class":"green"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.908343,-37.828535 ]
+    },
+    "properties": {
+    "ID":4662399758,
+    "MarkerText":"VEH9122",
+    "Popup Text":"19-25 Wharf Road, Port Melbourne 3207 VIC",
+    "FIELD6":"",
+    "Rotate":147,
+    "Class":"green"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 149.1710575,-35.3246943 ]
+    },
+    "properties": {
+    "ID":4662399608,
+    "MarkerText":"VEH77572",
+    "Popup Text":"175 Newcastle Street, Fyshwick 2609 ACT",
+    "FIELD6":"",
+    "Rotate":106,
+    "Class":"green"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.0175868,-37.5504563 ]
+    },
+    "properties": {
+    "ID":4662399303,
+    "MarkerText":"VEH5074",
+    "Popup Text":" Barkstead Road Road, Bungaree 3352 VIC",
+    "FIELD6":"",
+    "Rotate":308,
+    "Class":"green"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.0176975,-37.5504461 ]
+    },
+    "properties": {
+    "ID":4662399309,
+    "MarkerText":"VEH7298",
+    "Popup Text":" Barkstead Road Road, Bungaree 3352 VIC",
+    "FIELD6":"",
+    "Rotate":1,
+    "Class":"green"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 151.715347,-32.8912905 ]
+    },
+    "properties": {
+    "ID":4662400313,
+    "MarkerText":"VEH707",
+    "Popup Text":"21 Callistemon Close, Warabrook 2304 NSW",
+    "FIELD6":"",
+    "Rotate":291,
+    "Class":"green"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 138.6448755,-34.7793425 ]
+    },
+    "properties": {
+    "ID":4662399104,
+    "MarkerText":"VEH758",
+    "Popup Text":"114 Cross Keys Road, Salisbury South 5106 SA",
+    "FIELD6":"",
+    "Rotate":85,
+    "Class":"green"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 150.8141623,-33.7844226 ]
+    },
+    "properties": {
+    "ID":4662363232,
+    "MarkerText":"VEH609",
+    "Popup Text":"90 Sargents Road, Minchinbury 2770 NSW",
+    "FIELD6":"",
+    "Rotate":25,
+    "Class":"green"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 149.2233955,-21.573176 ]
+    },
+    "properties": {
+    "ID":4662363071,
+    "MarkerText":"VEH699",
+    "Popup Text":" South Inneston Road Road, Koumala 4738 QLD",
+    "FIELD6":"",
+    "Rotate":239,
+    "Class":"green"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.813782,-37.8082508 ]
+    },
+    "properties": {
+    "ID":4662399582,
+    "MarkerText":"VEH163253",
+    "Popup Text":" Law Court Court, Sunshine West 3020 VIC",
+    "FIELD6":"",
+    "Rotate":110,
+    "Class":"green"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 150.9069201,-33.8403223 ]
+    },
+    "properties": {
+    "ID":4662395062,
+    "MarkerText":"VEH5207",
+    "Popup Text":"29 Frank Street, Wetherill Park 2164 NSW",
+    "FIELD6":"",
+    "Rotate":3,
+    "Class":"green"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 138.6449508,-34.7790243 ]
+    },
+    "properties": {
+    "ID":4662341795,
+    "MarkerText":"VEH356",
+    "Popup Text":"114 Cross Keys Road, Salisbury South 5106 SA",
+    "FIELD6":"",
+    "Rotate":150,
+    "Class":"green"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 142.931244,-37.2823805 ]
+    },
+    "properties": {
+    "ID":4662363023,
+    "MarkerText":"VEH732",
+    "Popup Text":"70 High Street, Ararat 3377 VIC",
+    "FIELD6":"",
+    "Rotate":182,
+    "Class":"green"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 146.9216661,-36.0921771 ]
+    },
+    "properties": {
+    "ID":4662399385,
+    "MarkerText":"VEH163522",
+    "Popup Text":"306 Macauley Street, South Albury 2640 NSW",
+    "FIELD6":"",
+    "Rotate":182,
+    "Class":"green"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 150.9076401,-33.8398601 ]
+    },
+    "properties": {
+    "ID":4662400346,
+    "MarkerText":"VEH58854",
+    "Popup Text":"27 Frank Street, Wetherill Park 2164 NSW",
+    "FIELD6":"",
+    "Rotate":126,
+    "Class":"green"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 150.7076078,-33.5721563 ]
+    },
+    "properties": {
+    "ID":4662394714,
+    "MarkerText":"VEH102567",
+    "Popup Text":" Unnamed , North Richmond 2754 NSW",
+    "FIELD6":"",
+    "Rotate":178,
+    "Class":"green"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 150.9077956,-33.8408925 ]
+    },
+    "properties": {
+    "ID":4662399387,
+    "MarkerText":"VEH163251",
+    "Popup Text":"29 Frank Street, Wetherill Park 2164 NSW",
+    "FIELD6":"",
+    "Rotate":10,
+    "Class":"green"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 146.9750681,-36.0392733 ]
+    },
+    "properties": {
+    "ID":4662399096,
+    "MarkerText":"VEH690",
+    "Popup Text":" Songlark Crescent Crescent, Thurgoona 2640 NSW",
+    "FIELD6":"",
+    "Rotate":198,
+    "Class":"green"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 151.0331498,-33.826276 ]
+    },
+    "properties": {
+    "ID":2162039697,
+    "MarkerText":"VEH133621",
+    "Popup Text":"1 Devon Street, Rosehill 2142 NSW",
+    "FIELD6":"",
+    "Rotate":304,
+    "Class":"green"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 115.1331693,-34.2739531 ]
+    },
+    "properties": {
+    "ID":4662398928,
+    "MarkerText":"VEH127335",
+    "Popup Text":" Challis Road Road, Kudardup 6290 WA",
+    "FIELD6":"",
+    "Rotate":54,
+    "Class":"green"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 148.7144181,-34.4348035 ]
+    },
+    "properties": {
+    "ID":4642034648,
+    "MarkerText":"VEH159859",
+    "Popup Text":" Park Street Street, Boorowa 2586 NSW",
+    "FIELD6":"",
+    "Rotate":306,
+    "Class":"green"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 151.7077788,-32.8761546 ]
+    },
+    "properties": {
+    "ID":2162039699,
+    "MarkerText":"VEH163424",
+    "Popup Text":" Rural Drive Drive, Sandgate 2304 NSW",
+    "FIELD6":"",
+    "Rotate":134,
+    "Class":"green"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 152.8237741,-31.1851438 ]
+    },
+    "properties": {
+    "ID":4662399987,
+    "MarkerText":"VEH694",
+    "Popup Text":" Carlyle Road Road, Kundabung 2441 NSW",
+    "FIELD6":"",
+    "Rotate":182,
+    "Class":"green"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 146.9877705,-35.9959736 ]
+    },
+    "properties": {
+    "ID":4662399464,
+    "MarkerText":"VEH163017",
+    "Popup Text":" Unnamed , Ettamogah 2640 NSW",
+    "FIELD6":"",
+    "Rotate":40,
+    "Class":"green"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 153.2972483,-27.8448671 ]
+    },
+    "properties": {
+    "ID":2162039841,
+    "MarkerText":"VEH160099",
+    "Popup Text":"18 Dayflower Street, Upper Coomera 4209 QLD",
+    "FIELD6":"",
+    "Rotate":35,
+    "Class":"green"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 152.957111,-27.5793158 ]
+    },
+    "properties": {
+    "ID":4662399300,
+    "MarkerText":"VEH162242",
+    "Popup Text":"616 Boundary Road, Richlands 4077 QLD",
+    "FIELD6":"",
+    "Rotate":164,
+    "Class":"red"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 139.129079,-34.4071923 ]
+    },
+    "properties": {
+    "ID":2162039946,
+    "MarkerText":"VEH160817",
+    "Popup Text":"22-28 Railway Terrace, Truro 5356 SA",
+    "FIELD6":"",
+    "Rotate":304,
+    "Class":"red"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 153.0021138,-27.5301455 ]
+    },
+    "properties": {
+    "ID":4661403838,
+    "MarkerText":"VEH160769",
+    "Popup Text":"38 Lofter Street, Tennyson 4105 QLD",
+    "FIELD6":"",
+    "Rotate":49,
+    "Class":"red"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.8587386,-37.810813 ]
+    },
+    "properties": {
+    "ID":4642156261,
+    "MarkerText":"VEH163428",
+    "Popup Text":"10 Holmwood Road, Tottenham 3012 VIC",
+    "FIELD6":"",
+    "Rotate":31,
+    "Class":"red"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 150.974,-33.8622475 ]
+    },
+    "properties": {
+    "ID":2162039905,
+    "MarkerText":"VEH496",
+    "Popup Text":"36 Boola Avenue, Yennora 2161 NSW",
+    "FIELD6":"",
+    "Rotate":154,
+    "Class":"red"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 151.7161011,-32.8901123 ]
+    },
+    "properties": {
+    "ID":4642116765,
+    "MarkerText":"VEH163597",
+    "Popup Text":"24 Callistemon Close, Warabrook 2304 NSW",
+    "FIELD6":"",
+    "Rotate":312,
+    "Class":"red"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 115.9864533,-31.9663028 ]
+    },
+    "properties": {
+    "ID":1761065637,
+    "MarkerText":"VEH158832",
+    "Popup Text":" Beyer Place Place, Forrestfield 6058 WA",
+    "FIELD6":"",
+    "Rotate":40,
+    "Class":"red"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 149.6352415,-29.0725241 ]
+    },
+    "properties": {
+    "ID":2162039840,
+    "MarkerText":"VEH131354",
+    "Popup Text":"11 Railway Parade, Garah 2405 NSW",
+    "FIELD6":"",
+    "Rotate":69,
+    "Class":"red"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 150.908224,-33.84088 ]
+    },
+    "properties": {
+    "ID":4662398914,
+    "MarkerText":"VEH163530",
+    "Popup Text":"35-37 Frank Street, Wetherill Park 2164 NSW",
+    "FIELD6":"",
+    "Rotate":268,
+    "Class":"red"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.4008623,-38.0345638 ]
+    },
+    "properties": {
+    "ID":2162039847,
+    "MarkerText":"VEH159955",
+    "Popup Text":"60 Canterbury Road, Lara 3212 VIC",
+    "FIELD6":"",
+    "Rotate":150,
+    "Class":"red"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 139.1291766,-34.4074858 ]
+    },
+    "properties": {
+    "ID":4642155835,
+    "MarkerText":"VEH163596",
+    "Popup Text":"22-28 Railway Terrace, Truro 5356 SA",
+    "FIELD6":"",
+    "Rotate":69,
+    "Class":"red"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 152.661342,-31.76779 ]
+    },
+    "properties": {
+    "ID":4662363185,
+    "MarkerText":"VEH255",
+    "Popup Text":" Wonga Road Road, Moorland 2443 NSW",
+    "FIELD6":"",
+    "Rotate":340,
+    "Class":"red"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 150.813885,-33.7844013 ]
+    },
+    "properties": {
+    "ID":4662363020,
+    "MarkerText":"VEH150240",
+    "Popup Text":"90 Sargents Road, Minchinbury 2770 NSW",
+    "FIELD6":"",
+    "Rotate":251,
+    "Class":"red"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 150.6936658,-34.2407013 ]
+    },
+    "properties": {
+    "ID":4662395066,
+    "MarkerText":"VEH88494",
+    "Popup Text":"72 Almond Street, Wilton 2571 NSW",
+    "FIELD6":"",
+    "Rotate":168,
+    "Class":"red"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 140.0041341,-34.1885715 ]
+    },
+    "properties": {
+    "ID":1761087868,
+    "MarkerText":"VEH660",
+    "Popup Text":"12904 Sturt Highway, Waikerie 5330 SA",
+    "FIELD6":"",
+    "Rotate":198,
+    "Class":"red"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.85271,-37.7033158 ]
+    },
+    "properties": {
+    "ID":4662363220,
+    "MarkerText":"VEH161960",
+    "Popup Text":"13 Lambeck Drive, Tullamarine 3043 VIC",
+    "FIELD6":"",
+    "Rotate":196,
+    "Class":"red"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 152.9444363,-27.5673363 ]
+    },
+    "properties": {
+    "ID":4662399891,
+    "MarkerText":"VEH6434",
+    "Popup Text":"122 Ebbern Street, Darra 4076 QLD",
+    "FIELD6":"",
+    "Rotate":236,
+    "Class":"red"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 115.9866596,-31.9669261 ]
+    },
+    "properties": {
+    "ID":1761066077,
+    "MarkerText":"VEH15282",
+    "Popup Text":" Beyer Place Place, Forrestfield 6058 WA",
+    "FIELD6":"",
+    "Rotate":123,
+    "Class":"red"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 147.527636,-33.7572683 ]
+    },
+    "properties": {
+    "ID":4662400806,
+    "MarkerText":"VEH760",
+    "Popup Text":" Bimbella Street Street, Caragabal 2810 NSW",
+    "FIELD6":"",
+    "Rotate":331,
+    "Class":"red"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 146.9217861,-36.0908443 ]
+    },
+    "properties": {
+    "ID":4662400038,
+    "MarkerText":"VEH11855",
+    "Popup Text":"326 Charles Street, South Albury 2640 NSW",
+    "FIELD6":"",
+    "Rotate":155,
+    "Class":"red"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 151.7078608,-32.8768798 ]
+    },
+    "properties": {
+    "ID":1761087746,
+    "MarkerText":"VEH163555",
+    "Popup Text":"6 Ayrshire Crescent, Sandgate 2304 NSW",
+    "FIELD6":"",
+    "Rotate":254,
+    "Class":"red"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 138.6449873,-34.7795105 ]
+    },
+    "properties": {
+    "ID":4662394269,
+    "MarkerText":"VEH678",
+    "Popup Text":"15-23 Cheviot Road, Salisbury South 5106 SA",
+    "FIELD6":"",
+    "Rotate":7,
+    "Class":"red"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 150.9052521,-33.8422231 ]
+    },
+    "properties": {
+    "ID":4662399163,
+    "MarkerText":"VEH162046",
+    "Popup Text":"22-24 Frank Street, Wetherill Park 2164 NSW",
+    "FIELD6":"",
+    "Rotate":191,
+    "Class":"red"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 149.1565061,-35.3260746 ]
+    },
+    "properties": {
+    "ID":1761086220,
+    "MarkerText":"VEH715",
+    "Popup Text":"80 Mildura Street, Fyshwick 2609 ACT",
+    "FIELD6":"",
+    "Rotate":233,
+    "Class":"red"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 152.8237886,-31.1852203 ]
+    },
+    "properties": {
+    "ID":4662399190,
+    "MarkerText":"VEH691",
+    "Popup Text":" Carlyle Road Road, Kundabung 2441 NSW",
+    "FIELD6":"",
+    "Rotate":135,
+    "Class":"red"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.78187,-37.7883283 ]
+    },
+    "properties": {
+    "ID":1761086749,
+    "MarkerText":"VEH148135",
+    "Popup Text":"101 Paramount Boulevard, Derrimut 3030 VIC",
+    "FIELD6":"",
+    "Rotate":300,
+    "Class":"red"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.8056053,-37.8322908 ]
+    },
+    "properties": {
+    "ID":1761087861,
+    "MarkerText":"VEH698",
+    "Popup Text":"16-24 Cherry Lane, Laverton North 3026 VIC",
+    "FIELD6":"",
+    "Rotate":190,
+    "Class":"red"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 152.959192,-27.5732631 ]
+    },
+    "properties": {
+    "ID":4662400358,
+    "MarkerText":"VEH750",
+    "Popup Text":"31 Acanthus Street, Darra 4076 QLD",
+    "FIELD6":"",
+    "Rotate":145,
+    "Class":"red"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 146.9872133,-35.9956106 ]
+    },
+    "properties": {
+    "ID":4662399710,
+    "MarkerText":"VEH163016",
+    "Popup Text":" Unnamed , Ettamogah 2640 NSW",
+    "FIELD6":"",
+    "Rotate":179,
+    "Class":"red"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 150.8870925,-34.4352098 ]
+    },
+    "properties": {
+    "ID":1761086175,
+    "MarkerText":"VEH79469",
+    "Popup Text":"110-116 Auburn Street, Wollongong 2500 NSW",
+    "FIELD6":"",
+    "Rotate":112,
+    "Class":"red"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.948679,-37.5908275 ]
+    },
+    "properties": {
+    "ID":4662399432,
+    "MarkerText":"VEH439",
+    "Popup Text":"750A Craigieburn Road, Craigieburn 3064 VIC",
+    "FIELD6":"",
+    "Rotate":296,
+    "Class":"red"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 149.7424791,-34.7773075 ]
+    },
+    "properties": {
+    "ID":4662395197,
+    "MarkerText":"VEH163463",
+    "Popup Text":" Long Street Street, Brisbane Grove 2580 NSW",
+    "FIELD6":"",
+    "Rotate":179,
+    "Class":"red"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 146.989325,-35.9946191 ]
+    },
+    "properties": {
+    "ID":4662399757,
+    "MarkerText":"VEH362",
+    "Popup Text":" Unnamed , Ettamogah 2640 NSW",
+    "FIELD6":"",
+    "Rotate":164,
+    "Class":"red"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 146.9877375,-35.9961078 ]
+    },
+    "properties": {
+    "ID":4662400713,
+    "MarkerText":"VEH31610",
+    "Popup Text":" Unnamed , Ettamogah 2640 NSW",
+    "FIELD6":"",
+    "Rotate":292,
+    "Class":"red"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.8137948,-37.8082285 ]
+    },
+    "properties": {
+    "ID":4662399078,
+    "MarkerText":"VEH626",
+    "Popup Text":" Law Court Court, Sunshine West 3020 VIC",
+    "FIELD6":"",
+    "Rotate":126,
+    "Class":"red"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 146.9219105,-36.090769 ]
+    },
+    "properties": {
+    "ID":4662399441,
+    "MarkerText":"VEH163241",
+    "Popup Text":"326 Charles Street, South Albury 2640 NSW",
+    "FIELD6":"",
+    "Rotate":281,
+    "Class":"red"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 149.7659643,-34.7619338 ]
+    },
+    "properties": {
+    "ID":4662400465,
+    "MarkerText":"VEH618",
+    "Popup Text":" Speedway Road Road, Boxers Creek 2580 NSW",
+    "FIELD6":"",
+    "Rotate":40,
+    "Class":"red"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 151.0415131,-33.8347925 ]
+    },
+    "properties": {
+    "ID":4662399932,
+    "MarkerText":"VEH315",
+    "Popup Text":"89 Derby Street, Silverwater 2128 NSW",
+    "FIELD6":"",
+    "Rotate":83,
+    "Class":"red"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 149.7625316,-34.7668798 ]
+    },
+    "properties": {
+    "ID":4662400142,
+    "MarkerText":"VEH620",
+    "Popup Text":" Rosemont Road Road, Goulburn 2580 NSW",
+    "FIELD6":"",
+    "Rotate":357,
+    "Class":"red"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 151.6896045,-32.9991371 ]
+    },
+    "properties": {
+    "ID":4662399298,
+    "MarkerText":"VEH162129",
+    "Popup Text":"5 Fenning Place, Bennetts Green 2290 NSW",
+    "FIELD6":"",
+    "Rotate":240,
+    "Class":"red"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 146.9216585,-36.0915601 ]
+    },
+    "properties": {
+    "ID":4662399115,
+    "MarkerText":"VEH21745",
+    "Popup Text":"306 Macauley Street, South Albury 2640 NSW",
+    "FIELD6":"",
+    "Rotate":344,
+    "Class":"red"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 146.9217691,-36.0916096 ]
+    },
+    "properties": {
+    "ID":4662399741,
+    "MarkerText":"VEH21976",
+    "Popup Text":"306 Macauley Street, South Albury 2640 NSW",
+    "FIELD6":"",
+    "Rotate":213,
+    "Class":"red"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 150.906712,-33.8400461 ]
+    },
+    "properties": {
+    "ID":4662398908,
+    "MarkerText":"VEH629",
+    "Popup Text":"29 Frank Street, Wetherill Park 2164 NSW",
+    "FIELD6":"",
+    "Rotate":139,
+    "Class":"red"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.8472025,-37.6942233 ]
+    },
+    "properties": {
+    "ID":4662394716,
+    "MarkerText":"VEH256",
+    "Popup Text":" Reid Way Way, Melbourne Airport 3045 VIC",
+    "FIELD6":"",
+    "Rotate":323,
+    "Class":"red"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.8146498,-37.8082043 ]
+    },
+    "properties": {
+    "ID":1761086225,
+    "MarkerText":"VEH451",
+    "Popup Text":" Law Court Court, Sunshine West 3020 VIC",
+    "FIELD6":"",
+    "Rotate":113,
+    "Class":"red"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 143.7410053,-37.0642076 ]
+    },
+    "properties": {
+    "ID":4662399295,
+    "MarkerText":"VEH163547",
+    "Popup Text":" Gibbs Place Place, Maryborough 3465 VIC",
+    "FIELD6":"",
+    "Rotate":61,
+    "Class":"red"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 146.9210775,-36.0937026 ]
+    },
+    "properties": {
+    "ID":4662399305,
+    "MarkerText":"VEH163388",
+    "Popup Text":"421 Atkins Street, South Albury 2640 NSW",
+    "FIELD6":"",
+    "Rotate":223,
+    "Class":"red"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 148.4415026,-34.8159558 ]
+    },
+    "properties": {
+    "ID":1761086635,
+    "MarkerText":"VEH701",
+    "Popup Text":" Cobbler Road Road, Berremangra 2582 NSW",
+    "FIELD6":"",
+    "Rotate":44,
+    "Class":"red"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 151.041171,-33.8241105 ]
+    },
+    "properties": {
+    "ID":4662400722,
+    "MarkerText":"VEH163563",
+    "Popup Text":" Durham Street Street, Rosehill 2142 NSW",
+    "FIELD6":"",
+    "Rotate":262,
+    "Class":"red"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 151.0533921,-33.8907223 ]
+    },
+    "properties": {
+    "ID":4662400277,
+    "MarkerText":"VEH216",
+    "Popup Text":" Unnamed , Chullora 2190 NSW",
+    "FIELD6":"",
+    "Rotate":337,
+    "Class":"red"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 146.9217338,-36.0911526 ]
+    },
+    "properties": {
+    "ID":4662399308,
+    "MarkerText":"VEH90078",
+    "Popup Text":"365 Bridge Street, South Albury 2640 NSW",
+    "FIELD6":"",
+    "Rotate":309,
+    "Class":"red"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 150.9076586,-33.8397218 ]
+    },
+    "properties": {
+    "ID":4662399097,
+    "MarkerText":"VEH611",
+    "Popup Text":"27 Frank Street, Wetherill Park 2164 NSW",
+    "FIELD6":"",
+    "Rotate":235,
+    "Class":"red"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 149.6985923,-34.7760526 ]
+    },
+    "properties": {
+    "ID":4662399532,
+    "MarkerText":"VEH163414",
+    "Popup Text":" Unnamed , Goulburn 2580 NSW",
+    "FIELD6":"",
+    "Rotate":69,
+    "Class":"red"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 146.987191,-35.9959605 ]
+    },
+    "properties": {
+    "ID":4662399961,
+    "MarkerText":"VEH163127",
+    "Popup Text":" Unnamed , Ettamogah 2640 NSW",
+    "FIELD6":"",
+    "Rotate":295,
+    "Class":"red"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 146.9876173,-35.9958643 ]
+    },
+    "properties": {
+    "ID":4662400813,
+    "MarkerText":"VEH163126",
+    "Popup Text":" Unnamed , Ettamogah 2640 NSW",
+    "FIELD6":"",
+    "Rotate":256,
+    "Class":"red"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.8140931,-37.8083651 ]
+    },
+    "properties": {
+    "ID":1761086192,
+    "MarkerText":"VEH7095",
+    "Popup Text":" Law Court Court, Sunshine West 3020 VIC",
+    "FIELD6":"",
+    "Rotate":104,
+    "Class":"red"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.740886,-37.8251426 ]
+    },
+    "properties": {
+    "ID":4662399789,
+    "MarkerText":"VEH162154",
+    "Popup Text":" Logic Court Court, Truganina 3029 VIC",
+    "FIELD6":"",
+    "Rotate":220,
+    "Class":"red"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 150.21184,-34.6198896 ]
+    },
+    "properties": {
+    "ID":4662400705,
+    "MarkerText":"VEH525",
+    "Popup Text":" Penrose Forest Way Way, Sutton Forest 2577 NSW",
+    "FIELD6":"",
+    "Rotate":355,
+    "Class":"red"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 146.9878338,-35.9954346 ]
+    },
+    "properties": {
+    "ID":4662399075,
+    "MarkerText":"VEH2008",
+    "Popup Text":" Unnamed , Ettamogah 2640 NSW",
+    "FIELD6":"",
+    "Rotate":342,
+    "Class":"red"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 150.8439936,-34.0337168 ]
+    },
+    "properties": {
+    "ID":1761086179,
+    "MarkerText":"VEH73639",
+    "Popup Text":"395A Pembroke Road, Minto 2566 NSW",
+    "FIELD6":"",
+    "Rotate":111,
+    "Class":"red"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 150.5815353,-34.3181325 ]
+    },
+    "properties": {
+    "ID":4662400080,
+    "MarkerText":"VEH50578",
+    "Popup Text":" Remembrance Driveway Driveway, Yanderra 2574 NSW",
+    "FIELD6":"",
+    "Rotate":291,
+    "Class":"red"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 149.2473706,-35.3368636 ]
+    },
+    "properties": {
+    "ID":1761087870,
+    "MarkerText":"VEH135997",
+    "Popup Text":"41 Aurora Avenue, Queanbeyan East 2620 NSW",
+    "FIELD6":"",
+    "Rotate":300,
+    "Class":"red"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.8480443,-37.6948925 ]
+    },
+    "properties": {
+    "ID":4662399194,
+    "MarkerText":"VEH161183",
+    "Popup Text":" Reid Way Way, Melbourne Airport 3045 VIC",
+    "FIELD6":"",
+    "Rotate":86,
+    "Class":"red"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 151.0535026,-33.8904818 ]
+    },
+    "properties": {
+    "ID":4662400466,
+    "MarkerText":"VEH163242",
+    "Popup Text":" Unnamed , Chullora 2190 NSW",
+    "FIELD6":"",
+    "Rotate":69,
+    "Class":"red"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.8492186,-37.6942365 ]
+    },
+    "properties": {
+    "ID":4662399826,
+    "MarkerText":"VEH159698",
+    "Popup Text":"140 Link Road, Melbourne Airport 3045 VIC",
+    "FIELD6":"",
+    "Rotate":24,
+    "Class":"red"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 151.423414,-24.1044678 ]
+    },
+    "properties": {
+    "ID":1761085995,
+    "MarkerText":"VEH3557",
+    "Popup Text":" Bruce Highway Highway, Iveragh 4680 QLD",
+    "FIELD6":"",
+    "Rotate":27,
+    "Class":"red"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.8488155,-37.6943285 ]
+    },
+    "properties": {
+    "ID":4662399439,
+    "MarkerText":"VEH157244",
+    "Popup Text":"140 Link Road, Melbourne Airport 3045 VIC",
+    "FIELD6":"",
+    "Rotate":340,
+    "Class":"red"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 152.9574436,-27.580125 ]
+    },
+    "properties": {
+    "ID":4662400396,
+    "MarkerText":"VEH163415",
+    "Popup Text":"16 West Link Place, Richlands 4077 QLD",
+    "FIELD6":"",
+    "Rotate":288,
+    "Class":"red"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 146.9218088,-36.0913588 ]
+    },
+    "properties": {
+    "ID":4662400743,
+    "MarkerText":"VEH121322",
+    "Popup Text":"365 Bridge Street, South Albury 2640 NSW",
+    "FIELD6":"",
+    "Rotate":24,
+    "Class":"red"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 140.889243,-36.3223936 ]
+    },
+    "properties": {
+    "ID":4662399721,
+    "MarkerText":"VEH672",
+    "Popup Text":" Dukes Highway Highway, Pine Hill 5269 SA",
+    "FIELD6":"",
+    "Rotate":99,
+    "Class":"red"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 150.8886073,-33.7972633 ]
+    },
+    "properties": {
+    "ID":4662400062,
+    "MarkerText":"VEH4387",
+    "Popup Text":" Woods Close Close, Huntingwood 2148 NSW",
+    "FIELD6":"",
+    "Rotate":169,
+    "Class":"red"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.8480431,-37.6942311 ]
+    },
+    "properties": {
+    "ID":4662399460,
+    "MarkerText":"VEH768",
+    "Popup Text":"140 Link Road, Melbourne Airport 3045 VIC",
+    "FIELD6":"",
+    "Rotate":98,
+    "Class":"red"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 146.9896718,-35.9948175 ]
+    },
+    "properties": {
+    "ID":4662399529,
+    "MarkerText":"VEH97476",
+    "Popup Text":" Unnamed , Ettamogah 2640 NSW",
+    "FIELD6":"",
+    "Rotate":185,
+    "Class":"red"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.8487346,-37.6950778 ]
+    },
+    "properties": {
+    "ID":4662399284,
+    "MarkerText":"VEH714",
+    "Popup Text":" Reid Way Way, Melbourne Airport 3045 VIC",
+    "FIELD6":"",
+    "Rotate":322,
+    "Class":"red"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.8486965,-37.6957625 ]
+    },
+    "properties": {
+    "ID":4662399099,
+    "MarkerText":"VEH703",
+    "Popup Text":" Reid Way Way, Melbourne Airport 3045 VIC",
+    "FIELD6":"",
+    "Rotate":315,
+    "Class":"red"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 151.2158188,-34.0107941 ]
+    },
+    "properties": {
+    "ID":4662400381,
+    "MarkerText":"VEH47593",
+    "Popup Text":"29 Cook Street, Kurnell 2231 NSW",
+    "FIELD6":"",
+    "Rotate":80,
+    "Class":"red"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.9373213,-37.6933391 ]
+    },
+    "properties": {
+    "ID":4662399395,
+    "MarkerText":"VEH120627",
+    "Popup Text":" Unnamed , Broadmeadows 3047 VIC",
+    "FIELD6":"",
+    "Rotate":321,
+    "Class":"red"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.1979053,-38.0151121 ]
+    },
+    "properties": {
+    "ID":4662399175,
+    "MarkerText":"VEH163317",
+    "Popup Text":" South Park Drive Drive, Dandenong South 3175 VIC",
+    "FIELD6":"",
+    "Rotate":18,
+    "Class":"red"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 152.911663,-30.7240503 ]
+    },
+    "properties": {
+    "ID":1761086705,
+    "MarkerText":"VEH4516",
+    "Popup Text":"999 Centra Park Street, Macksville 2447 NSW",
+    "FIELD6":"",
+    "Rotate":17,
+    "Class":"red"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 150.9785551,-33.8695745 ]
+    },
+    "properties": {
+    "ID":4661403830,
+    "MarkerText":"VEH161544",
+    "Popup Text":"63 Fairfield Street, Yennora 2161 NSW",
+    "FIELD6":"",
+    "Rotate":350,
+    "Class":"red"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 151.2127191,-33.9506355 ]
+    },
+    "properties": {
+    "ID":1761086224,
+    "MarkerText":"VEH5065",
+    "Popup Text":" Unnamed , Banksmeadow 2019 NSW",
+    "FIELD6":"",
+    "Rotate":85,
+    "Class":"red"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 152.9577425,-27.5792553 ]
+    },
+    "properties": {
+    "ID":4662398911,
+    "MarkerText":"VEH163518",
+    "Popup Text":"616 Boundary Road, Richlands 4077 QLD",
+    "FIELD6":"",
+    "Rotate":189,
+    "Class":"red"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 146.9224701,-36.0917486 ]
+    },
+    "properties": {
+    "ID":4662399047,
+    "MarkerText":"VEH162930",
+    "Popup Text":"359 Atkins Street, East Albury 2640 NSW",
+    "FIELD6":"",
+    "Rotate":294,
+    "Class":"red"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 150.9063745,-33.8419511 ]
+    },
+    "properties": {
+    "ID":4662399618,
+    "MarkerText":"VEH673",
+    "Popup Text":" Frank Street, Wetherill Park 2164 NSW",
+    "FIELD6":"",
+    "Rotate":23,
+    "Class":"red"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 152.153007,-27.5516593 ]
+    },
+    "properties": {
+    "ID":4662399933,
+    "MarkerText":"VEH763",
+    "Popup Text":" Warrego Highway Highway, Helidon 4344 QLD",
+    "FIELD6":"",
+    "Rotate":292,
+    "Class":"red"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 151.7158943,-32.8901453 ]
+    },
+    "properties": {
+    "ID":4642034629,
+    "MarkerText":"VEH163480",
+    "Popup Text":"24 Callistemon Close, Warabrook 2304 NSW",
+    "FIELD6":"",
+    "Rotate":24,
+    "Class":"red"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 153.3882036,-29.0936133 ]
+    },
+    "properties": {
+    "ID":1761086653,
+    "MarkerText":"VEH107630",
+    "Popup Text":"490 Woodburn-Evans Head Road, Doonbah 2473 NSW",
+    "FIELD6":"",
+    "Rotate":304,
+    "Class":"red"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 150.9073363,-33.8410406 ]
+    },
+    "properties": {
+    "ID":4662399759,
+    "MarkerText":"VEH154560",
+    "Popup Text":"29 Frank Street, Wetherill Park 2164 NSW",
+    "FIELD6":"",
+    "Rotate":222,
+    "Class":"red"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 146.9203683,-36.0927598 ]
+    },
+    "properties": {
+    "ID":4662400365,
+    "MarkerText":"VEH163261",
+    "Popup Text":"275 Macauley Street, South Albury 2640 NSW",
+    "FIELD6":"",
+    "Rotate":50,
+    "Class":"red"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 152.956045,-27.5785006 ]
+    },
+    "properties": {
+    "ID":4662400123,
+    "MarkerText":"VEH150846",
+    "Popup Text":"463 Boundary Road, Darra 4076 QLD",
+    "FIELD6":"",
+    "Rotate":277,
+    "Class":"red"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 152.956346,-27.5734755 ]
+    },
+    "properties": {
+    "ID":4662400057,
+    "MarkerText":"VEH157750",
+    "Popup Text":"2680 Ipswich Road, Darra 4076 QLD",
+    "FIELD6":"",
+    "Rotate":214,
+    "Class":"red"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.1075728,-37.9933891 ]
+    },
+    "properties": {
+    "ID":1761088255,
+    "MarkerText":"VEH8351",
+    "Popup Text":"22 Mills Road, Braeside 3195 VIC",
+    "FIELD6":"",
+    "Rotate":151,
+    "Class":"red"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 146.9210665,-36.0928161 ]
+    },
+    "properties": {
+    "ID":4662400200,
+    "MarkerText":"VEH119924",
+    "Popup Text":"306 Macauley Street, South Albury 2640 NSW",
+    "FIELD6":"",
+    "Rotate":101,
+    "Class":"red"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 151.4061771,-33.25311 ]
+    },
+    "properties": {
+    "ID":1761086640,
+    "MarkerText":"VEH163373",
+    "Popup Text":" St Johns Road Road, Warnervale 2259 NSW",
+    "FIELD6":"",
+    "Rotate":40,
+    "Class":"red"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.9693481,-37.6031136 ]
+    },
+    "properties": {
+    "ID":4662399863,
+    "MarkerText":"VEH733",
+    "Popup Text":" Craigieburn-Hume In Ramp On Ramp, Wollert 3750 VIC",
+    "FIELD6":"",
+    "Rotate":129,
+    "Class":"red"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 139.079547,-34.4209248 ]
+    },
+    "properties": {
+    "ID":4642155854,
+    "MarkerText":"VEH163569",
+    "Popup Text":" Jaegers Road Road, Truro 5356 SA",
+    "FIELD6":"",
+    "Rotate":303,
+    "Class":"red"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 153.030438,-29.8023615 ]
+    },
+    "properties": {
+    "ID":1761088453,
+    "MarkerText":"VEH1705",
+    "Popup Text":" Shields Road Road, Glenugie 2460 NSW",
+    "FIELD6":"",
+    "Rotate":342,
+    "Class":"red"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 150.9061391,-33.842689 ]
+    },
+    "properties": {
+    "ID":4662399755,
+    "MarkerText":"VEH128321",
+    "Popup Text":"22-24 Frank Street, Wetherill Park 2164 NSW",
+    "FIELD6":"",
+    "Rotate":135,
+    "Class":"red"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 151.6029376,-32.8936986 ]
+    },
+    "properties": {
+    "ID":4662399726,
+    "MarkerText":"VEH466",
+    "Popup Text":"36 Stenhouse Drive, Cameron Park 2285 NSW",
+    "FIELD6":"",
+    "Rotate":148,
+    "Class":"red"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 151.6226051,-32.9270186 ]
+    },
+    "properties": {
+    "ID":4662363318,
+    "MarkerText":"VEH709",
+    "Popup Text":"43778 Aluminium Close, Edgeworth 2285 NSW",
+    "FIELD6":"",
+    "Rotate":43,
+    "Class":"red"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.016809,-37.6898263 ]
+    },
+    "properties": {
+    "ID":4642116832,
+    "MarkerText":"VEH163535",
+    "Popup Text":"26 Temple Drive, Thomastown 3074 VIC",
+    "FIELD6":"",
+    "Rotate":293,
+    "Class":"red"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 151.7371963,-32.9247906 ]
+    },
+    "properties": {
+    "ID":4642116671,
+    "MarkerText":"VEH160966",
+    "Popup Text":"83 Chatham Street, Broadmeadow 2292 NSW",
+    "FIELD6":"",
+    "Rotate":200,
+    "Class":"red"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 149.1239103,-34.810645 ]
+    },
+    "properties": {
+    "ID":1761086206,
+    "MarkerText":"VEH4514",
+    "Popup Text":" Hillgrove Road Road, Oolong 2581 NSW",
+    "FIELD6":"",
+    "Rotate":324,
+    "Class":"red"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 147.5276841,-33.7574561 ]
+    },
+    "properties": {
+    "ID":4662399256,
+    "MarkerText":"VEH8391",
+    "Popup Text":" Bimbella Street Street, Caragabal 2810 NSW",
+    "FIELD6":"",
+    "Rotate":23,
+    "Class":"red"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 146.986897,-35.9958968 ]
+    },
+    "properties": {
+    "ID":4662399336,
+    "MarkerText":"VEH2232",
+    "Popup Text":" Unnamed , Ettamogah 2640 NSW",
+    "FIELD6":"",
+    "Rotate":112,
+    "Class":"red"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 139.0799475,-34.4209256 ]
+    },
+    "properties": {
+    "ID":4642155916,
+    "MarkerText":"VEH163553",
+    "Popup Text":" Jaegers Road Road, Truro 5356 SA",
+    "FIELD6":"",
+    "Rotate":34,
+    "Class":"red"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 152.8134375,-31.2807455 ]
+    },
+    "properties": {
+    "ID":4662363304,
+    "MarkerText":"VEH162923",
+    "Popup Text":" Pacific Highway Highway, Cooperabung 2441 NSW",
+    "FIELD6":"",
+    "Rotate":21,
+    "Class":"red"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 150.9073793,-33.840802 ]
+    },
+    "properties": {
+    "ID":4662399234,
+    "MarkerText":"VEH163104",
+    "Popup Text":"29 Frank Street, Wetherill Park 2164 NSW",
+    "FIELD6":"",
+    "Rotate":228,
+    "Class":"red"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 150.8864798,-33.792769 ]
+    },
+    "properties": {
+    "ID":1761086196,
+    "MarkerText":"VEH288",
+    "Popup Text":"494 Great Western Highway, Arndell Park 2148 NSW",
+    "FIELD6":"",
+    "Rotate":187,
+    "Class":"red"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.9395651,-37.7817425 ]
+    },
+    "properties": {
+    "ID":4662363059,
+    "MarkerText":"VEH110384",
+    "Popup Text":"75 Delhi Court, Travancore 3032 VIC",
+    "FIELD6":"",
+    "Rotate":73,
+    "Class":"red"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.8531081,-37.705626 ]
+    },
+    "properties": {
+    "ID":4662363317,
+    "MarkerText":"VEH3365",
+    "Popup Text":"11 Trevi Crescent, Tullamarine 3043 VIC",
+    "FIELD6":"",
+    "Rotate":343,
+    "Class":"red"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 115.9528633,-31.9376198 ]
+    },
+    "properties": {
+    "ID":1761085984,
+    "MarkerText":"VEH702",
+    "Popup Text":" Boud Avenue Avenue, Perth Airport 6105 WA",
+    "FIELD6":"",
+    "Rotate":152,
+    "Class":"red"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.8348663,-37.824723 ]
+    },
+    "properties": {
+    "ID":4642155794,
+    "MarkerText":"VEH163069",
+    "Popup Text":"32 Buchanan Road, Brooklyn 3012 VIC",
+    "FIELD6":"",
+    "Rotate":171,
+    "Class":"red"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 146.9869643,-35.9961725 ]
+    },
+    "properties": {
+    "ID":4662400342,
+    "MarkerText":"VEH162260",
+    "Popup Text":" Unnamed , Ettamogah 2640 NSW",
+    "FIELD6":"",
+    "Rotate":154,
+    "Class":"red"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.19786,-38.0149498 ]
+    },
+    "properties": {
+    "ID":4662399991,
+    "MarkerText":"VEH163278",
+    "Popup Text":" South Park Drive Drive, Dandenong South 3175 VIC",
+    "FIELD6":"",
+    "Rotate":288,
+    "Class":"red"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 146.723463,-36.0716293 ]
+    },
+    "properties": {
+    "ID":4662399339,
+    "MarkerText":"VEH158056",
+    "Popup Text":"10 Albertson Road, Barnawartha North 3691 VIC",
+    "FIELD6":"",
+    "Rotate":5,
+    "Class":"red"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.8541445,-37.703687 ]
+    },
+    "properties": {
+    "ID":4662399827,
+    "MarkerText":"VEH70194",
+    "Popup Text":" Annandale Road Road, Tullamarine 3043 VIC",
+    "FIELD6":"",
+    "Rotate":237,
+    "Class":"red"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 146.9215885,-36.0911276 ]
+    },
+    "properties": {
+    "ID":4662399528,
+    "MarkerText":"VEH1640",
+    "Popup Text":"365 Bridge Street, South Albury 2640 NSW",
+    "FIELD6":"",
+    "Rotate":65,
+    "Class":"red"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 146.8694028,-36.1084778 ]
+    },
+    "properties": {
+    "ID":4662399383,
+    "MarkerText":"VEH9004",
+    "Popup Text":" Petcare Place Place, Wodonga 3690 VIC",
+    "FIELD6":"",
+    "Rotate":208,
+    "Class":"red"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 151.624499,-32.9278165 ]
+    },
+    "properties": {
+    "ID":4642116772,
+    "MarkerText":"VEH163470",
+    "Popup Text":"11 Superior Avenue, Edgeworth 2285 NSW",
+    "FIELD6":"",
+    "Rotate":291,
+    "Class":"red"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.1285166,-37.5740256 ]
+    },
+    "properties": {
+    "ID":4662398883,
+    "MarkerText":"VEH162761",
+    "Popup Text":" Cartons Road Road, Ballan 3342 VIC",
+    "FIELD6":"",
+    "Rotate":134,
+    "Class":"red"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 151.7165003,-32.8904318 ]
+    },
+    "properties": {
+    "ID":4642116833,
+    "MarkerText":"VEH163572",
+    "Popup Text":"17 Callistemon Close, Warabrook 2304 NSW",
+    "FIELD6":"",
+    "Rotate":211,
+    "Class":"red"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 146.6075548,-36.1559508 ]
+    },
+    "properties": {
+    "ID":4662399981,
+    "MarkerText":"VEH151971",
+    "Popup Text":"43647 Main Street, Chiltern 3683 VIC",
+    "FIELD6":"",
+    "Rotate":20,
+    "Class":"red"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 152.9098318,-30.7262701 ]
+    },
+    "properties": {
+    "ID":1761086621,
+    "MarkerText":"VEH163417",
+    "Popup Text":"26 Binalong Way, Macksville 2447 NSW",
+    "FIELD6":"",
+    "Rotate":340,
+    "Class":"red"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 146.9212278,-36.0922828 ]
+    },
+    "properties": {
+    "ID":4662394711,
+    "MarkerText":"VEH5552",
+    "Popup Text":"306 Macauley Street, South Albury 2640 NSW",
+    "FIELD6":"",
+    "Rotate":44,
+    "Class":"red"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 151.6374943,-33.089207 ]
+    },
+    "properties": {
+    "ID":4642116692,
+    "MarkerText":"VEH163545",
+    "Popup Text":"7 Lake Road, Swansea 2281 NSW",
+    "FIELD6":"",
+    "Rotate":222,
+    "Class":"red"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 151.0699548,-33.8139095 ]
+    },
+    "properties": {
+    "ID":4662399628,
+    "MarkerText":"VEH4748",
+    "Popup Text":"33 Hope Street, Melrose Park 2114 NSW",
+    "FIELD6":"",
+    "Rotate":315,
+    "Class":"red"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 139.1291991,-34.4071796 ]
+    },
+    "properties": {
+    "ID":4642155886,
+    "MarkerText":"VEH163500",
+    "Popup Text":"22-28 Railway Terrace, Truro 5356 SA",
+    "FIELD6":"",
+    "Rotate":140,
+    "Class":"red"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 152.9565778,-27.579512 ]
+    },
+    "properties": {
+    "ID":4662399988,
+    "MarkerText":"VEH163514",
+    "Popup Text":"86 Archerfield Road, Richlands 4077 QLD",
+    "FIELD6":"",
+    "Rotate":128,
+    "Class":"red"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 146.921048,-36.0935408 ]
+    },
+    "properties": {
+    "ID":4662399788,
+    "MarkerText":"VEH163391",
+    "Popup Text":"421 Atkins Street, South Albury 2640 NSW",
+    "FIELD6":"",
+    "Rotate":218,
+    "Class":"red"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 146.9213283,-36.0936033 ]
+    },
+    "properties": {
+    "ID":4662399812,
+    "MarkerText":"VEH163593",
+    "Popup Text":"421 Atkins Street, South Albury 2640 NSW",
+    "FIELD6":"",
+    "Rotate":78,
+    "Class":"orange"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.8140226,-37.8077858 ]
+    },
+    "properties": {
+    "ID":1761086212,
+    "MarkerText":"VEH163524",
+    "Popup Text":"10 Law Court, Sunshine West 3020 VIC",
+    "FIELD6":"",
+    "Rotate":321,
+    "Class":"orange"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.8568323,-37.6944226 ]
+    },
+    "properties": {
+    "ID":4662363026,
+    "MarkerText":"VEH163489",
+    "Popup Text":" Link Road Road, Melbourne Airport 3045 VIC",
+    "FIELD6":"",
+    "Rotate":117,
+    "Class":"orange"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 146.9875001,-35.9955026 ]
+    },
+    "properties": {
+    "ID":4662394981,
+    "MarkerText":"VEH786",
+    "Popup Text":" Unnamed , Ettamogah 2640 NSW",
+    "FIELD6":"",
+    "Rotate":190,
+    "Class":"orange"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 138.6445438,-34.779674 ]
+    },
+    "properties": {
+    "ID":4662398940,
+    "MarkerText":"VEH706",
+    "Popup Text":" Cheviot Road Road, Salisbury South 5106 SA",
+    "FIELD6":"",
+    "Rotate":336,
+    "Class":"orange"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 153.2320121,-29.2590231 ]
+    },
+    "properties": {
+    "ID":4662398968,
+    "MarkerText":"VEH163297",
+    "Popup Text":" Unnamed , Jacky Bulbin Flat 2463 NSW",
+    "FIELD6":"",
+    "Rotate":204,
+    "Class":"orange"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 151.7150085,-32.8917323 ]
+    },
+    "properties": {
+    "ID":4642116697,
+    "MarkerText":"VEH3088",
+    "Popup Text":"139 Lorna Street, Waratah West 2298 NSW",
+    "FIELD6":"",
+    "Rotate":163,
+    "Class":"orange"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.1980786,-38.0149663 ]
+    },
+    "properties": {
+    "ID":4662394799,
+    "MarkerText":"VEH9629",
+    "Popup Text":" South Park Drive Drive, Dandenong South 3175 VIC",
+    "FIELD6":"",
+    "Rotate":285,
+    "Class":"orange"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 151.7157423,-32.8918328 ]
+    },
+    "properties": {
+    "ID":4642155964,
+    "MarkerText":"VEH6308",
+    "Popup Text":"9 Conica Close, Warabrook 2304 NSW",
+    "FIELD6":"",
+    "Rotate":218,
+    "Class":"orange"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 150.9064003,-33.842396 ]
+    },
+    "properties": {
+    "ID":4662480760,
+    "MarkerText":"VEH9304",
+    "Popup Text":"26-28 Frank Street, Wetherill Park 2164 NSW",
+    "FIELD6":"",
+    "Rotate":33,
+    "Class":"orange"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 138.9311926,-34.454723 ]
+    },
+    "properties": {
+    "ID":4642155861,
+    "MarkerText":"VEH647",
+    "Popup Text":"28 Mill Street, Greenock 5360 SA",
+    "FIELD6":"",
+    "Rotate":37,
+    "Class":"orange"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 146.9634695,-36.0430808 ]
+    },
+    "properties": {
+    "ID":4662399071,
+    "MarkerText":"VEH163474",
+    "Popup Text":"540 Dallinger Road, Lavington 2641 NSW",
+    "FIELD6":"",
+    "Rotate":24,
+    "Class":"orange"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 150.9062525,-33.842267 ]
+    },
+    "properties": {
+    "ID":4662399486,
+    "MarkerText":"VEH5128",
+    "Popup Text":"22-24 Frank Street, Wetherill Park 2164 NSW",
+    "FIELD6":"",
+    "Rotate":359,
+    "Class":"orange"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 150.6593521,-34.2431123 ]
+    },
+    "properties": {
+    "ID":4662399101,
+    "MarkerText":"VEH163366",
+    "Popup Text":" Esen Way Way, Pheasants Nest 2574 NSW",
+    "FIELD6":"",
+    "Rotate":293,
+    "Class":"orange"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 151.7631265,-32.7561005 ]
+    },
+    "properties": {
+    "ID":4642116667,
+    "MarkerText":"VEH163444",
+    "Popup Text":"40 Richardson Road, Raymond Terrace 2324 NSW",
+    "FIELD6":"",
+    "Rotate":28,
+    "Class":"orange"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 151.7626411,-32.7559373 ]
+    },
+    "properties": {
+    "ID":4642116801,
+    "MarkerText":"VEH163532",
+    "Popup Text":"40 Richardson Road, Raymond Terrace 2324 NSW",
+    "FIELD6":"",
+    "Rotate":160,
+    "Class":"orange"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 151.7617565,-32.756431 ]
+    },
+    "properties": {
+    "ID":4642116638,
+    "MarkerText":"VEH163493",
+    "Popup Text":"17 Watt Street, Raymond Terrace 2324 NSW",
+    "FIELD6":"",
+    "Rotate":81,
+    "Class":"orange"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 151.7630003,-32.755855 ]
+    },
+    "properties": {
+    "ID":4642116836,
+    "MarkerText":"VEH162474",
+    "Popup Text":"40 Richardson Road, Raymond Terrace 2324 NSW",
+    "FIELD6":"",
+    "Rotate":216,
+    "Class":"orange"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 150.9171773,-33.8289166 ]
+    },
+    "properties": {
+    "ID":4662400044,
+    "MarkerText":"VEH906",
+    "Popup Text":" Dolerite Way Way, Pemulwuy 2145 NSW",
+    "FIELD6":"",
+    "Rotate":302,
+    "Class":"orange"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 151.7629985,-32.755896 ]
+    },
+    "properties": {
+    "ID":4642116807,
+    "MarkerText":"VEH163583",
+    "Popup Text":"40 Richardson Road, Raymond Terrace 2324 NSW",
+    "FIELD6":"",
+    "Rotate":253,
+    "Class":"orange"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 151.7628105,-32.7559121 ]
+    },
+    "properties": {
+    "ID":4642116784,
+    "MarkerText":"VEH162519",
+    "Popup Text":"40 Richardson Road, Raymond Terrace 2324 NSW",
+    "FIELD6":"",
+    "Rotate":115,
+    "Class":"orange"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 150.9085995,-33.840053 ]
+    },
+    "properties": {
+    "ID":4662400131,
+    "MarkerText":"VEH242",
+    "Popup Text":"35-37 Frank Street, Wetherill Park 2164 NSW",
+    "FIELD6":"",
+    "Rotate":301,
+    "Class":"orange"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.8481741,-37.6952981 ]
+    },
+    "properties": {
+    "ID":4662399743,
+    "MarkerText":"VEH162952",
+    "Popup Text":" Reid Way Way, Melbourne Airport 3045 VIC",
+    "FIELD6":"",
+    "Rotate":85,
+    "Class":"orange"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 150.8139818,-33.784806 ]
+    },
+    "properties": {
+    "ID":1761088392,
+    "MarkerText":"VEH7546",
+    "Popup Text":"90 Sargents Road, Minchinbury 2770 NSW",
+    "FIELD6":"",
+    "Rotate":353,
+    "Class":"orange"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 150.9071125,-33.8413225 ]
+    },
+    "properties": {
+    "ID":4662400064,
+    "MarkerText":"VEH154104",
+    "Popup Text":" Frank Street Street, Wetherill Park 2164 NSW",
+    "FIELD6":"",
+    "Rotate":135,
+    "Class":"orange"
+    }
+  }
+]
+}
